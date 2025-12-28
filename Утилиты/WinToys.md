@@ -1,0 +1,1 @@
+ [WinToys](https://apps.microsoft.com/detail/9P8LTPGCBZXD?hl=en-us&gl=KZ&ocid=pdpshare) - оптимизатор ([Оптимизируй Windows и сделай её быстрее - Wintoys - Легкая, бесплатная, безопасная! ](https://youtu.be/x4er0gbQYHA))

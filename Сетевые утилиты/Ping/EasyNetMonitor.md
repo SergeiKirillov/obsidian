@@ -1,0 +1,1 @@
+ [Free network monitor - monitoring software - EasyNetMonitor.](https://nicekit.com/net-monitor/best-free-net-monitor.htm) - пинг хостов

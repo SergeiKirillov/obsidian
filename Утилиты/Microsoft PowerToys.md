@@ -1,0 +1,1 @@
+[Microsoft PowerToys](https://apps.microsoft.com/detail/XP89DCGQ3K6VLD?hl=en-US&gl=KZ&ocid=pdpshare) - дополнительные программы ([PowerToys — Секретные инструменты Windows от Microsoft](https://youtu.be/ndbVuu11Jwg))
