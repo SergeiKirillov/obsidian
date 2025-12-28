@@ -1,0 +1,1 @@
+Поисковая Система - [Everything](https://www.voidtools.com/ru-ru/)
