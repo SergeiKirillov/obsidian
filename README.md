@@ -31,10 +31,10 @@
 ## Torrent
 [Tixaty](Программы\Torrent\Tixaty.md)
 ##  Wallpaper
-[DynamicTheme](Программы\)
+[DynamicTheme](Программы\Wallpaper\DynamicTheme.md)
 
-[[WinToys]]
-[[Microsoft PowerToys]]
+[WinToys](Программы\WinToys.md)
+[Microsoft PowerToys]()
 [[PowerToys]]
 [[ScreenToGif]]
 [[ViveTool]]
