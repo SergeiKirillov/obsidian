@@ -8,35 +8,35 @@
 ## Пароли
 - [Bitwarden Password Manager](Программы/Пароли/BitwardenPasswordManager.md)
 ## Поиск
-- [Everything](Программы\Поиск\Everything.md)
+- [Everything](Программы/Поиск/Everything.md)
 ## Сетевые утилиты
 ### Статистика
-[NetWork](Программы\Статистика\NetWork.md)
+[NetWork](Программы/Статистика/NetWork.md)
 ### Host
-[Host](Программы\Host\Host.md)
-[AcrylicDNSProxy](Программы\Netware\AcrylicDNSProxy.md)
+[Host](Программы/Host/Host.md)
+[AcrylicDNSProxy](Программы/Netware/AcrylicDNSProxy.md)
 ### Ping
-[EasyNetMonitor](Программы\Ping\EasyNetMonitor.md)
+[EasyNetMonitor](Программы/Ping/EasyNetMonitor.md)
 ## Сканер
-[NAPS2](Программы\Сканер\NAPS2.md)
+[NAPS2](Программы/Сканер/NAPS2.md)
 ## Удаление мусора
-[BleachBit](Программы\\BleachBit.md)
+[BleachBit](Программы/Мусоор/BleachBit.md)
 ## Удаленный доступ
 
 ## Download
 ### Media
-[ClipGrab](Программы\Download\Media\ClipGrab.md)
+[ClipGrab](Программы/Download/Media/ClipGrab.md)
 ## ScreenSave
-[Fliglo](Программы\ScreenSave\Fliglo.md)
+[Fliglo](Программы/ScreenSave/Fliglo.md)
 ## Torrent
-[Tixaty](Программы\Torrent\Tixaty.md)
+[Tixaty](Программы/Torrent/Tixaty.md)
 ##  Wallpaper
-[DynamicTheme](Программы\Wallpaper\DynamicTheme.md)
+[DynamicTheme](Программы/Wallpaper/DynamicTheme.md)
 
-[WinToys](Программы\WinToys.md)
-[PowerToys](Программы\PowerToys.md)
-[ScreenToGif](Программы\ScreenToGif.md)
-[ViveTool](Программы\ViveTool.md)
+[WinToys](Программы/WinToys.md)
+[PowerToys](Программы/PowerToys.md)
+[ScreenToGif](Программы/ScreenToGif.md)
+[ViveTool](Программы/ViveTool.md)
 # Скрипты
 ## AutoHotKey
 ## PowerShell
@@ -44,10 +44,10 @@
 
 # Установка
 ## Активация
-[Online](Установка\Активация\Online.md)
+[Online](Установка/Активация/Online.md)
 # Tweak
-[РежимБога](Tweak\РежимБога.md)
-[УдалениеПрограммПослеУстановки](Tweak\УдалениеПрограммПослеУстановки.md)
-[Удаление AI](Tweak\УдалениеAI.md)
-[Edge](Tweak\Edge.md)
+[РежимБога](Tweak/РежимБога.md)
+[УдалениеПрограммПослеУстановки](Tweak/УдалениеПрограммПослеУстановки.md)
+[Удаление AI](Tweak/УдалениеAI.md)
+[Edge](Tweak/Edge.md)
 
