@@ -6,7 +6,7 @@
 ## Архиватор
 - [7Zip](Программы/Архиваторы/7Zip.md)
 ## Пароли
-- [Bitwarden Password Manager](Программы/Менеджер паролей/Bitwarden Password Manager.md)
+- [Bitwarden Password Manager](Программы/Пароли/BitwardenPasswordManager.md)
 ## Поиск
 - [[Everything]]
 ## Сетевые утилиты
