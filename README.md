@@ -27,7 +27,7 @@
 ### Media
 [ClipGrab](Программы\Download\Media\ClipGrab.md)
 ## ScreenSave
-[[Fliglo]]
+[Fliglo](Программы\ScreenSave\Fli)
 ## Torrent
 [[Tixaty]]
 ##  Wallpaper
