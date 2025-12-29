@@ -8,30 +8,30 @@
 ## Пароли
 - [Bitwarden Password Manager](Программы/Пароли/BitwardenPasswordManager.md)
 ## Поиск
-- [[Everything]]
+- [Everything](Программы\Поиск\Everything.md)
 ## Сетевые утилиты
 ### Статистика
-[[NetWork]]
+[NetWork](Программы\Статистика\NetWork.md)
 ### Host
-[[Списки Host]]
-[[Acrylic DNS Proxy]]
+[Host](Программы\Host\Host.md)
+[AcrylicDNSProxy](Программы\Netware\AcrylicDNSProxy.md)
 ### Ping
-[[EasyNetMonitor]]
+[EasyNetMonitor](Программы\Ping\EasyNetMonitor.md)
 ## Сканер
-[[NAPS2]]
+[NAPS2](Программы\Сканер\NAPS2.md)
 ## Удаление мусора
-[[BleachBit]]
+[BleachBit](Программы\\BleachBit.md)
 ## Удаленный доступ
 
 ## Download
 ### Media
-[[ClipGrab]]
+[ClipGrab](Программы\Download\Media\ClipGrab.md)
 ## ScreenSave
 [[Fliglo]]
 ## Torrent
 [[Tixaty]]
 ##  Wallpaper
-[[Dynamic Theme]]
+[[DynamicTheme]]
 
 [[WinToys]]
 [[Microsoft PowerToys]]
@@ -48,8 +48,8 @@
 ## Активация
 [[Online]]
 # Tweak
-[[Режим Бога]]
- [[Удаление программ после установки]]
+[[РежимБога]]
+ [[УдалениеПрограммПослеУстановки]]
 [[Удаление AI]]
 [[Edge]]
 
