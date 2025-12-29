@@ -34,10 +34,9 @@
 [DynamicTheme](Программы\Wallpaper\DynamicTheme.md)
 
 [WinToys](Программы\WinToys.md)
-[Microsoft PowerToys]()
-[[PowerToys]]
-[[ScreenToGif]]
-[[ViveTool]]
+[PowerToys](Программы\PowerToys.md)
+[ScreenToGif]]
+[ViveTool]]
 # Скрипты
 ## AutoHotKey
 [[URL download]]
