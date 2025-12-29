@@ -27,11 +27,11 @@
 ### Media
 [ClipGrab](Программы\Download\Media\ClipGrab.md)
 ## ScreenSave
-[Fliglo](Программы\ScreenSave\Fli)
+[Fliglo](Программы\ScreenSave\Fliglo.md)
 ## Torrent
-[[Tixaty]]
+[Tixaty](Программы\Torrent\Tixaty.md)
 ##  Wallpaper
-[[DynamicTheme]]
+[DynamicTheme](Программы\)
 
 [[WinToys]]
 [[Microsoft PowerToys]]
