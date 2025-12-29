@@ -35,11 +35,10 @@
 
 [WinToys](Программы\WinToys.md)
 [PowerToys](Программы\PowerToys.md)
-[ScreenToGif]]
-[ViveTool]]
+[ScreenToGif](Программы\ScreenToGif.md)
+[ViveTool](Программы\ViveTool.md)
 # Скрипты
 ## AutoHotKey
-[[URL download]]
 ## PowerShell
 
 
