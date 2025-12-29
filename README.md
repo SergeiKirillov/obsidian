@@ -1,2 +1,55 @@
-# obsidian
-public Windows Tweak
+# Установка
+
+# Tweak
+# Программы
+## Анализатор места
+## Архиватор
+- [[7Zip]]
+## Пароли
+- [[Bitwarden Password Manager]]
+## Поиск
+- [[Everything]]
+## Сетевые утилиты
+### Статистика
+[[NetWork]]
+### Host
+[[Списки Host]]
+[[Acrylic DNS Proxy]]
+### Ping
+[[EasyNetMonitor]]
+## Сканер
+[[NAPS2]]
+## Удаление мусора
+[[BleachBit]]
+## Удаленный доступ
+
+## Download
+### Media
+[[ClipGrab]]
+## ScreenSave
+[[Fliglo]]
+## Torrent
+[[Tixaty]]
+##  Wallpaper
+[[Dynamic Theme]]
+
+[[WinToys]]
+[[Microsoft PowerToys]]
+[[PowerToys]]
+[[ScreenToGif]]
+[[ViveTool]]
+# Скрипты
+## AutoHotKey
+[[URL download]]
+## PowerShell
+
+
+# Установка
+## Активация
+[[Online]]
+# Tweak
+[[Режим Бога]]
+ [[Удаление программ после установки]]
+[[Удаление AI]]
+[[Edge]]
+
