@@ -11,10 +11,14 @@
             "id": "fc9fcb00f1ffd3a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Программы/Удаленка/RuDesktop.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "RuDesktop"
             }
           }
         ]
@@ -182,6 +186,8 @@
   },
   "active": "fc9fcb00f1ffd3a9",
   "lastOpenFiles": [
+    "Программы/Удаленка/RuDesktop.md",
+    "Программы/Удаленка",
     "Программы/Virtual/VirtualBox/DownloadVersion.md",
     "README.md",
     "Программы/Virtual/VirtualBox",
