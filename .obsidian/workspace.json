@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47cc7b79ae730c55",
+        "id": "ca63dcb316c94240",
         "type": "tabs",
         "children": [
           {
-            "id": "443dcb8639db12a7",
+            "id": "fc9fcb00f1ffd3a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,10 +180,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "443dcb8639db12a7",
+  "active": "fc9fcb00f1ffd3a9",
   "lastOpenFiles": [
-    "Ежедневные заметки/2025/12/2025-12-30.md",
+    "Программы/Virtual/VirtualBox/DownloadVersion.md",
     "README.md",
+    "Программы/Virtual/VirtualBox",
+    "Программы/Virtual",
+    "Ежедневные заметки/2025/12/2025-12-30.md",
     "Ежедневные заметки/2025/12",
     "Ежедневные заметки/2025",
     "Ежедневные заметки",

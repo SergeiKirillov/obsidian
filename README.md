@@ -28,6 +28,9 @@
 - [ClipGrab](Программы/Download/Media/ClipGrab.md)
 ## ScreenSave
 - [Fliglo](Программы/ScreenSave/Fliglo.md)
+
+##Virtual
+- [VirtualBox](Программы/Virtual/VirtualBox/DownloadVersion.md)
 ## Torrent
 - [Tixaty](Программы/Torrent/Tixaty.md)
 ##  Wallpaper
