@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Архиваторы/7Zip.md",
+                "file": "Программы/Удаленка/RuDesktop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7Zip"
+              "title": "RuDesktop"
             }
           }
         ],
@@ -203,6 +203,19 @@
   },
   "active": "01d150c3aa79f487",
   "lastOpenFiles": [
+    "Программы/Сканер/NAPS2.md",
+    "Программы/Сканер/images/Pasted image 20251230194411.png",
+    "Программы/Сканер/images",
+    "Программы/Поиск/Everything.md",
+    "Программы/Поиск/images/Pasted image 20251230194341.png",
+    "Программы/Поиск/images",
+    "Программы/Пароли/BitwardenPasswordManager.md",
+    "Программы/Пароли/images/Pasted image 20251230194314.png",
+    "Программы/Пароли/images",
+    "Программы/Мусор/BleachBit.md",
+    "Программы/Мусор/images/Pasted image 20251230194221.png",
+    "Программы/Мусор/images",
+    "Программы/Архиваторы/7Zip.md",
     "Программы/Архиваторы/images/Pasted image 20251230193821.png",
     "Программы/Архиваторы/images",
     "README.md",
@@ -225,19 +238,11 @@
     "Программы/Microsoft PowerToys.md",
     "Программы/Wallpaper/DynamicTheme.md",
     "Программы/NetWare/Host/AcrylicDNSProxy.md",
-    "Программы/Пароли/BitwardenPasswordManager.md",
     "Программы/Менеджер.md",
-    "Утилиты/Видео",
-    "Утилиты",
-    "Программы/Менеджер паролей/Менеджер паролей - Ярлык.lnk",
     "Программы/Download/Media/ClipGrab.md",
-    "Программы/Поиск",
     "Программы/ScreenToGif.md",
     "Программы/Torrent/Tixaty.md",
-    "Программы/Архиваторы/7Zip.md",
-    "Программы/Поиск/Everything.md",
     "Программы/NetWare/Host/Host.md",
-    "Программы/NetWare/Ping/EasyNetMonitor.md",
-    "Программы/WinToys.md"
+    "Программы/NetWare/Ping/EasyNetMonitor.md"
   ]
 }
