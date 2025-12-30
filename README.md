@@ -22,7 +22,7 @@
 ## Удаление мусора
 - [BleachBit](Программы/Мусоор/BleachBit.md)
 ## Удаленный доступ
-
+- [RuDesktop](Программы\Удаленка\RuDesktop.md)
 ## Download
 ### Media
 - [ClipGrab](Программы/Download/Media/ClipGrab.md)
