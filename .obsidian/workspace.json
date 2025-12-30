@@ -1,24 +1,26 @@
 {
   "main": {
-    "id": "b3ba78126d192082",
+    "id": "2f1ec26c66d11620",
     "type": "split",
     "children": [
       {
-        "id": "ca63dcb316c94240",
+        "id": "6efe3d51cf4c24f5",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9fcb00f1ffd3a9",
+            "id": "468fc8fb11cab269",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Удаленка/RuDesktop.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "RuDesktop"
+              "title": "README"
             }
           }
         ]
@@ -27,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "516e83adc7975942",
+    "id": "8df8feb3e74a70fc",
     "type": "split",
     "children": [
       {
-        "id": "7a98fb7e3814dddf",
+        "id": "8a59b8e47abb77d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6f619d9b2483bde2",
+            "id": "5f1599c93786c1f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +50,7 @@
             }
           },
           {
-            "id": "5718b85cd598eeaa",
+            "id": "745a86907b7d6239",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +67,7 @@
             }
           },
           {
-            "id": "722811a4684ce703",
+            "id": "178f16a381b26d4a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +83,20 @@
     "width": 300
   },
   "right": {
-    "id": "0002d77c7868250c",
+    "id": "761959575c4c791c",
     "type": "split",
     "children": [
       {
-        "id": "d6df7e7be2af2656",
+        "id": "524e740f9db8cf9b",
         "type": "tabs",
         "children": [
           {
-            "id": "06c74b4633e3c393",
+            "id": "e11106f91eb3859c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Добро пожаловать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +106,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для README"
+              "title": "Обратные ссылки для Добро пожаловать"
             }
           },
           {
-            "id": "c8b8eddb6d26018d",
+            "id": "2687713753f1f88e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из README"
+              "title": "Исходящие ссылки из Добро пожаловать"
             }
           },
           {
-            "id": "265bd7b403ef73a0",
+            "id": "683bccd9411602b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +139,7 @@
             }
           },
           {
-            "id": "33afedc0666ed601",
+            "id": "dc1ecc9a5ff8e3e5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +153,18 @@
             }
           },
           {
-            "id": "58dd659ccf3349cc",
+            "id": "7a5ffacfa61389b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Добро пожаловать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура Добро пожаловать"
             }
           }
         ]
@@ -174,28 +176,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc9fcb00f1ffd3a9",
+  "active": "468fc8fb11cab269",
   "lastOpenFiles": [
     "Программы/Удаленка/RuDesktop.md",
     "Программы/Удаленка",
     "Программы/Virtual/VirtualBox/DownloadVersion.md",
-    "README.md",
     "Программы/Virtual/VirtualBox",
     "Программы/Virtual",
     "Ежедневные заметки/2025/12/2025-12-30.md",
     "Ежедневные заметки/2025/12",
     "Ежедневные заметки/2025",
-    "Ежедневные заметки",
-    "2025-12-30.md"
+    "Tweak/Edge.md",
+    "README.md",
+    "Tweak/РежимБога 1.md",
+    "Tweak/Edge 1.md",
+    "Tweak/УдалениеПрограммПослеУстановки.md",
+    "Программы/NetWare/Статистика/NetWork.md",
+    "Tweak/РежимБога.md",
+    "Скрипты/AutoHotkey/URL download.md",
+    "Программы/PowerToys.md",
+    "Программы/Microsoft PowerToys.md",
+    "Программы/Wallpaper/DynamicTheme.md",
+    "Программы/NetWare/Host/AcrylicDNSProxy.md",
+    "Программы/Пароли/BitwardenPasswordManager.md",
+    "Программы/Менеджер.md",
+    "Утилиты/Видео",
+    "Утилиты",
+    "Программы/Менеджер паролей/Менеджер паролей - Ярлык.lnk",
+    "Программы/Download/Media/ClipGrab.md",
+    "Программы/Поиск",
+    "Программы/Download/Media",
+    "Программы/ScreenToGif.md",
+    "Программы/Torrent/Tixaty.md",
+    "Программы/Архиваторы/7Zip.md",
+    "Программы/Поиск/Everything.md",
+    "Программы/NetWare/Host/Host.md",
+    "Программы/NetWare/Ping/EasyNetMonitor.md",
+    "Программы/WinToys.md",
+    "Программы/ViveTool.md"
   ]
 }
