@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62877987aa64dcde",
+        "id": "ef5e30707d974845",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ab171ff4e907da",
+            "id": "6b2a8b8c7553eacb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -157,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "3e62ec59efdf3a15",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4ab171ff4e907da",
+  "active": "6b2a8b8c7553eacb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2026-01-01.md",
     "Программы/NetWare/Статистика/NetWork.md",
     "Программы/Мусор/BleachBit.md",
     "README.md",
-    "Ежедневные заметки/2025/12/2025-12-30.md",
-    "conflict-files-obsidian-git.md"
+    "Ежедневные заметки/2025/12/2025-12-30.md"
   ]
 }
