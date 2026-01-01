@@ -13,16 +13,18 @@
 ### Статистика
 - [NetWork](Программы/Статистика/NetWork.md)
 ### Host
-- [Host](Программы/Host/Host.md)
-- [AcrylicDNSProxy](Программы/Netware/AcrylicDNSProxy.md)
+- [Host](Программы/Netware/Host/Host.md)
+- [AcrylicDNSProxy](Программы/Netware/Host/AcrylicDNSProxy.md)
 ### Ping
-- [EasyNetMonitor](Программы/Ping/EasyNetMonitor.md)
+- [EasyNetMonitor](Программы/Netware/Ping/EasyNetMonitor.md)
+### DarkNet
+- [I2P](Программы/Netware/DarkNet/i2p.md)
 ## Сканер
 - [NAPS2](Программы/Сканер/NAPS2.md)
 ## Удаление мусора
 - [BleachBit](Программы/Мусоор/BleachBit.md)
 ## Удаленный доступ
-
+- [RuDesktop](Программы\Удаленка\RuDesktop.md)
 ## Download
 ### Media
 - [ClipGrab](Программы/Download/Media/ClipGrab.md)
