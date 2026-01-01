@@ -166,8 +166,19 @@
               "icon": "lucide-list",
               "title": "Структура Добро пожаловать"
             }
+          },
+          {
+            "id": "7a2fba96195b2160",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468fc8fb11cab269",
+  "active": "5f1599c93786c1f3",
   "lastOpenFiles": [
     "Программы/NetWare/Ping/EasyNetMonitor.md",
     "Программы/NetWare/DarkNet/i2P.md",
