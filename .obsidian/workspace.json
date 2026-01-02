@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "293ad4307711cef6",
+        "id": "986807d3a51808bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ad46aa4af6819c8c",
+            "id": "de49aa166e0ed4a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -191,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad46aa4af6819c8c",
+  "active": "3e62ec59efdf3a15",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2026-01-01.md",
