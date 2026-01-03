@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Удаленка/RuDesktop.md",
+                "file": "Программы/Terminal/WindowsTerminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RuDesktop"
+              "title": "WindowsTerminal"
             }
           }
         ],
@@ -215,6 +215,9 @@
   },
   "active": "babe480693f9f762",
   "lastOpenFiles": [
+    "Программы/Удаленка/RuDesktop.md",
+    "Программы/Terminal/WindowsTerminal.md",
+    "Программы/Terminal",
     "Установка/Активация/Online.md",
     "Программирование/VScode/URL.md",
     "README.md",
@@ -251,15 +254,12 @@
     "Программы/Download/Media/images/Pasted image 20251230194631.png",
     "Программы/Download/Media/images/Pasted image 20251230194618.png",
     "Программы/Download/Media/images",
-    "Программы/Удаленка/RuDesktop.md",
     "Программы/Сканер/NAPS2.md",
     "Программы/Сканер/images",
     "Программы/Поиск/Everything.md",
     "Программы/Поиск/images",
     "Программы/Пароли/BitwardenPasswordManager.md",
-    "Программы/Пароли/images",
     "Программы/Мусор/BleachBit.md",
-    "Программы/Архиваторы/7Zip.md",
-    "Ежедневные заметки/2025/12/2025-12-30.md"
+    "Программы/Архиваторы/7Zip.md"
   ]
 }
