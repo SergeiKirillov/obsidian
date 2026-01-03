@@ -10,7 +10,11 @@
       "icon": "lucide-arrow-big-right-dash",
       "name": "Git: Push",
       "mode": "any",
+<<<<<<< HEAD
       "color": "#fff700"
+=======
+      "color": "#c9f005"
+>>>>>>> origin/main
     }
   ],
   "rightRibbon": [],
@@ -21,9 +25,13 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
+<<<<<<< HEAD
     "leftRibbon": [
       "Граф"
     ]
+=======
+    "leftRibbon": []
+>>>>>>> origin/main
   },
   "spacing": 8,
   "advancedToolbar": {
