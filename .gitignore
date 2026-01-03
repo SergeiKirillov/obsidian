@@ -1,12 +1,15 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
 # .obsidian
 
 # Ignore volatile UI-related state
-.obsidian/workspace.json
-.obsidian/app.json
+#.obsidian/workspace.json
+#.obsidian/app.json
 
 # Ignore system and editor files (more specific to what I do)
-.vscode/
-.idea/
+#.vscode/
+#.idea/
 
-.DS_Store
-Thumbs.db
+#.DS_Store
+#Thumbs.db
