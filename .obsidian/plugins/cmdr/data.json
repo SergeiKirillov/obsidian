@@ -4,19 +4,7 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "obsidian-git:push2",
-      "icon": "lucide-arrow-big-right-dash",
-      "name": "Git: Push",
-      "mode": "any",
-<<<<<<< HEAD
-      "color": "#fff700"
-=======
-      "color": "#c9f005"
->>>>>>> origin/main
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -25,13 +13,7 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-<<<<<<< HEAD
-    "leftRibbon": [
-      "Граф"
-    ]
-=======
     "leftRibbon": []
->>>>>>> origin/main
   },
   "spacing": 8,
   "advancedToolbar": {
