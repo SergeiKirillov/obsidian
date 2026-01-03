@@ -173,21 +173,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
+      "graph:Граф": true,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "cmdr:Git: Push": false
     }
   },
-  "active": "3e62ec59efdf3a15",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2026-01-01.md",
