@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: Commit-and-sync": false,
       "cmdr:Git: Push": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
