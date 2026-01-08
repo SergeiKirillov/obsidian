@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "897db7a9c8706ebb",
+        "id": "093487a8fbc1ab6e",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6225710bec5279",
+            "id": "073a0c317f2578f9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260106093146.png"
+                "file": "DataBase/Клиенты.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260106093146"
+              "icon": "lucide-file",
+              "title": "Клиенты"
             }
           }
         ]
@@ -180,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: Commit-and-sync": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": true,
       "canvas:Создать новый холст": false,
@@ -190,8 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf6225710bec5279",
+  "active": "073a0c317f2578f9",
   "lastOpenFiles": [
+    "DataBase/Клиенты.md",
+    "DataBase",
+    "Tweak/out-gridview.mp4",
+    "Pasted image 20260106093146.png",
     "conflict-files-obsidian-git.md",
     "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
     "Скрипты/Сетевые",
@@ -200,10 +207,8 @@
     "Проблемы/Восстановление при загрузке.md",
     "Проблемы",
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
-    "Tweak/out-gridview.mp4",
     "Tweak/Tвик для отключения рекомендуемого в меню Пуск Windows 11.md",
     "Tweak/Cкрыть главную страницу Параметров.md",
-    "Pasted image 20260106093146.png",
     "Программирование/VScode/URL.md",
     "Программирование/VScode",
     "Программирование",
