@@ -4,7 +4,22 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:push2",
+      "icon": "lucide-arrow-big-right-dash",
+      "name": "Git: Push",
+      "mode": "c5567834889038bd",
+      "color": "#c9f005"
+    },
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-archive",
+      "name": "Git: Commit-and-sync",
+      "mode": "any",
+      "color": "#03dffc"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],

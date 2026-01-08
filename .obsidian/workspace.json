@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72c8bf636b766f63",
+        "id": "897db7a9c8706ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b35576f6cd450b",
+            "id": "cf6225710bec5279",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b35576f6cd450b",
+  "active": "3e62ec59efdf3a15",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
+    "Скрипты/Сетевые",
+    "Программы/Terminal/WindowsTerminal.md",
+    "Программы/Terminal",
+    "Проблемы/Восстановление при загрузке.md",
+    "Проблемы",
+    "Tweak/Как быстро искать по различным параметрам служб Windows.md",
+    "Tweak/out-gridview.mp4",
+    "Tweak/Tвик для отключения рекомендуемого в меню Пуск Windows 11.md",
+    "Tweak/Cкрыть главную страницу Параметров.md",
+    "Pasted image 20260106093146.png",
     "Программирование/VScode/URL.md",
     "Программирование/VScode",
     "Программирование",
