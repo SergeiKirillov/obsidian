@@ -11,10 +11,12 @@
             "id": "cf6225710bec5279",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260106093146.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260106093146"
             }
           }
         ]
@@ -173,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e62ec59efdf3a15",
+  "active": "cf6225710bec5279",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
