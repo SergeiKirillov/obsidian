@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e62ec59efdf3a15",
+  "active": "c4b35576f6cd450b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Программирование/VScode/URL.md",
