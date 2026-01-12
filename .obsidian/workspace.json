@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Программы/Графические/Растровые/Photoshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Photoshop"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +196,11 @@
   },
   "active": "a0e897f75f60b38b",
   "lastOpenFiles": [
+    "README.md",
+    "Программы/Графические/Растровые/Photoshop.md",
+    "Программы/Графические/Векторные",
+    "Программы/Графические/Растровые",
+    "Программы/Графические",
     "Pasted image 20260106093146.png",
     "Mobil.md",
     "conflict-files-obsidian-git.md",
@@ -216,7 +222,6 @@
     "2026-01-01.md",
     "Программы/NetWare/Статистика/NetWork.md",
     "Программы/Мусор/BleachBit.md",
-    "README.md",
     "Ежедневные заметки/2025/12/2025-12-30.md"
   ]
 }
