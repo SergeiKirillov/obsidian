@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Переключение языка/Arum Switcher.md",
+                "file": "Программы/Графические/Растровые/Photoshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arum Switcher"
+              "title": "Photoshop"
             }
           }
         ]
@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e62ec59efdf3a15",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
+    "Программы/Графические/Векторные",
     "Программы/Переключение языка/Arum Switcher.md",
     "conflict-files-obsidian-git.md",
     "Программы/Графические/Растровые/Photoshop.md",
