@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e49e198406cd081",
+        "id": "4e923487f6a5dcfa",
         "type": "tabs",
         "children": [
           {
-            "id": "b7a7602d5129bbef",
+            "id": "a0e897f75f60b38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Графические/Растровые/Photoshop.md",
+                "file": "Программы/Переключение языка/Caramba Switcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photoshop"
+              "title": "Caramba Switcher"
             }
           }
         ]
@@ -177,10 +177,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: Push": false,
       "cmdr:Git: Commit-and-sync": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": true,
@@ -192,27 +194,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e1499b7e587ba9c",
+  "active": "a0e897f75f60b38b",
   "lastOpenFiles": [
-    "Программы/Графические/Векторные",
     "Программы/Переключение языка/Arum Switcher.md",
-    "conflict-files-obsidian-git.md",
+    "Программы/Переключение языка/Key Switcher.md",
+    "Программы/Переключение языка/Pasted image 20260114072041.png",
+    "Pasted image 20260106093146.png",
+    "Программы/Переключение языка/Pasted image 20260114072518.png",
+    "Программы/Переключение языка/Pasted image 20260114072424.png",
+    "Программы/Переключение языка/Pasted image 20260114072326.png",
+    "Программы/Переключение языка/Pasted image 20260114072251.png",
+    "README.md",
+    "Программы/Переключение языка/Punto Switcher.md",
+    "Программы/Переключение языка/Keyboard Ninja.md",
+    "Программы/Переключение языка/Caramba Switcher.md",
+    "Программы/Переключение языка",
     "Программы/Графические/Растровые/Photoshop.md",
+    "Программы/Графические/Векторные",
     "Программы/Графические/Растровые",
     "Программы/Графические",
-    "Pasted image 20260114072518.png",
-    "Программы/Переключение языка/Key Switcher.md",
-    "Pasted image 20260114072424.png",
-    "Программы/Переключение языка/Keyboard Ninja.md",
-    "Pasted image 20260114072326.png",
-    "Программы/Переключение языка/Punto Switcher.md",
-    "Pasted image 20260114072251.png",
-    "Программы/Переключение языка/Caramba Switcher.md",
-    "Pasted image 20260114072041.png",
-    "README.md",
-    "Программы/Переключение языка",
-    "Pasted image 20260106093146.png",
     "Mobil.md",
+    "conflict-files-obsidian-git.md",
     "DataBase/Клиенты.md",
     "DataBase",
     "Tweak/out-gridview.mp4",
@@ -227,7 +229,6 @@
     "Tweak/Cкрыть главную страницу Параметров.md",
     "Программирование/VScode/URL.md",
     "Программирование/VScode",
-    "Программирование",
     "2026-01-01.md",
     "Программы/NetWare/Статистика/NetWork.md",
     "Программы/Мусор/BleachBit.md",
