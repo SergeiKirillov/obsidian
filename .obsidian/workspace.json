@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4e923487f6a5dcfa",
+        "id": "1c04de99a56c6e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e897f75f60b38b",
+            "id": "8a09d3d009ed7e93",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260106093146.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260106093146"
-            }
-          },
-          {
-            "id": "b88ec0f5df43cc4b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -193,8 +178,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Git: Push": false,
-      "cmdr:Git: Commit-and-sync": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": true,
       "canvas:Создать новый холст": false,
@@ -202,16 +185,17 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "b88ec0f5df43cc4b",
+  "active": "8a09d3d009ed7e93",
   "lastOpenFiles": [
+    "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Caramba Switcher.md",
     "Программы/Переключение языка/Arum Switcher.md",
     "Программы/Переключение языка/Key Switcher.md",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
-    "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072518.png",
     "Программы/Переключение языка/Pasted image 20260114072424.png",
     "Программы/Переключение языка/Pasted image 20260114072326.png",
