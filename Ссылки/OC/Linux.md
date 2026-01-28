@@ -1,0 +1,3 @@
+- [Fedora Labs | The Fedora Project](https://fedoraproject.org/labs)
+	- Fedora Security Lab - сборки (spin) на основе Fedora, предоставляющей безопасное окружение для работы над аудитом безопасности, восстановлением системы и обучению методологиям тестирования безопасности
+- 

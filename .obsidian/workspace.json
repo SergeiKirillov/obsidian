@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/Google/Анти портрет пользователя.md",
+                "file": "Ссылки/OC/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анти портрет пользователя"
+              "title": "Linux"
             }
           }
         ]
@@ -195,6 +195,8 @@
   "active": "803180f7858ffa1a",
   "lastOpenFiles": [
     "Ссылки/Google/Анти портрет пользователя.md",
+    "Ссылки/OC/Linux.md",
+    "Ссылки/OC",
     "Ссылки/Google",
     "Ссылки",
     "Tweak/Удаление следов действия.md",
@@ -229,7 +231,6 @@
     "DataBase",
     "Tweak/out-gridview.mp4",
     "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
-    "Скрипты/Сетевые",
     "Программы/Terminal/WindowsTerminal.md",
     "Проблемы/Восстановление при загрузке.md",
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
@@ -238,7 +239,6 @@
     "Программирование/VScode/URL.md",
     "2026-01-01.md",
     "Программы/NetWare/Статистика/NetWork.md",
-    "Программы/Мусор/BleachBit.md",
-    "Ежедневные заметки/2025/12/2025-12-30.md"
+    "Программы/Мусор/BleachBit.md"
   ]
 }
