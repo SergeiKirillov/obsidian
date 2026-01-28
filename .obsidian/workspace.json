@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "715bb9137611e889",
+        "id": "9e5f0ed03267cdf7",
         "type": "tabs",
         "children": [
           {
-            "id": "32cbc9c164ef4742",
+            "id": "419136891966760a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программы/Браузер/Chrome/Расширения/Tab Wrangler.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tab Wrangler"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -192,12 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32cbc9c164ef4742",
+  "active": "419136891966760a",
   "lastOpenFiles": [
+    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Программы/Браузер/Chrome/Расширения/images",
     "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
-    "Программы/Браузер/Chrome/Расширения/Tab Wrangler.md",
     "Программы/Браузер/Chrome.md",
     "Программы/Браузер/Chrome/Расширения",
     "Программы/Браузер/Chrome",
@@ -233,7 +229,6 @@
     "Программы/Переключение языка/Punto Switcher.md",
     "Pasted image 20260114072251.png",
     "Программы/Переключение языка/Caramba Switcher.md",
-    "Pasted image 20260114072041.png",
     "README.md",
     "Mobil.md",
     "DataBase/Клиенты.md",
