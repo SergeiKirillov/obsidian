@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Установка/Активация/slmgr.md",
+                "file": "Tweak/Удаление следов действия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "slmgr"
+              "title": "Удаление следов действия"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "b7a7602d5129bbef",
   "lastOpenFiles": [
-    "Установка/Активация/Online.md",
     "Установка/Активация/slmgr.md",
+    "Tweak/Удаление следов действия.md",
+    "Установка/Активация/Online.md",
     "Программы/NetWare/Передача файлов/Локально.md",
     "Программы/Графические/Растровые/Photoshop.md",
     "Программы/NetWare/Передача файлов",
