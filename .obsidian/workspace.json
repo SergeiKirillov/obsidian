@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
+                "file": "Программы/NetWare/Настройка скорости/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+E Tab Wrangler"
+              "title": "Без названия"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "8a09d3d009ed7e93",
   "lastOpenFiles": [
+    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
+    "Программы/NetWare/Настройка скорости/Без названия.md",
+    "Программы/NetWare/Настройка скорости",
     "Mobil.md",
     "Программы/Браузер/Firefox/LibreWolf.md",
     "Программы/Браузер/Firefox",
@@ -212,10 +215,8 @@
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
     "Программы/Браузер/Chrome/Расширения/images",
-    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Программы/Браузер/Chrome/Расширения",
     "Программы/Браузер/Chrome",
-    "Программы/Браузер",
     "Tweak/Удаление следов действия.md",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Caramba Switcher.md",
@@ -236,7 +237,6 @@
     "Программы/Terminal/WindowsTerminal.md",
     "Проблемы/Восстановление при загрузке.md",
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
-    "Tweak/Tвик для отключения рекомендуемого в меню Пуск Windows 11.md",
-    "Tweak/Cкрыть главную страницу Параметров.md"
+    "Tweak/Tвик для отключения рекомендуемого в меню Пуск Windows 11.md"
   ]
 }
