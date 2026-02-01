@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c04de99a56c6e5a",
+        "id": "7708e59f5806afae",
         "type": "tabs",
         "children": [
           {
-            "id": "8a09d3d009ed7e93",
+            "id": "a22c0dabe8333331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Установка ОС/Экспорт ключей/PowerSheel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PowerSheel"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -193,10 +189,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "8a09d3d009ed7e93",
+  "active": "a22c0dabe8333331",
   "lastOpenFiles": [
-    "Установка ОС/Экспорт ключей/Программы.md",
     "Установка ОС/Экспорт ключей/PowerSheel.md",
+    "Установка ОС/Экспорт ключей/Программы.md",
     "Программы/Браузер/Chrome/Download.md",
     "Установка ОС/Экспорт ключей",
     "Сайты для поиска софта.md",
