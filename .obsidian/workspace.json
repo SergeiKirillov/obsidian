@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
+                "file": "Сайты для поиска софта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SG TCP Optimizer"
+              "title": "Сайты для поиска софта"
             }
           }
         ]
@@ -195,11 +195,11 @@
   },
   "active": "8a09d3d009ed7e93",
   "lastOpenFiles": [
-    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
+    "Программы/Браузер/Firefox/LibreWolf.md",
+    "Сайты для поиска софта.md",
     "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Программы/NetWare/Настройка скорости",
     "Mobil.md",
-    "Программы/Браузер/Firefox/LibreWolf.md",
     "Программы/Браузер/Firefox",
     "Обновления/Блокировка обновления до Windows 11.md",
     "Программы/NetWare/Передача файлов/Локально.md",
@@ -215,6 +215,7 @@
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
     "Программы/Браузер/Chrome/Расширения/images",
+    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Программы/Браузер/Chrome/Расширения",
     "Программы/Браузер/Chrome",
     "Tweak/Удаление следов действия.md",
@@ -236,7 +237,6 @@
     "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
     "Программы/Terminal/WindowsTerminal.md",
     "Проблемы/Восстановление при загрузке.md",
-    "Tweak/Как быстро искать по различным параметрам служб Windows.md",
-    "Tweak/Tвик для отключения рекомендуемого в меню Пуск Windows 11.md"
+    "Tweak/Как быстро искать по различным параметрам служб Windows.md"
   ]
 }
