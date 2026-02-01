@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сайты для поиска софта.md",
+                "file": "Программы/Браузер/Chrome/Download.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сайты для поиска софта"
+              "title": "Download"
             }
           }
         ]
@@ -193,10 +193,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "8a09d3d009ed7e93",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
-    "Программы/Браузер/Firefox/LibreWolf.md",
     "Сайты для поиска софта.md",
+    "Программы/Браузер/Chrome/Download.md",
+    "Программы/Браузер/Firefox/LibreWolf.md",
     "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Программы/NetWare/Настройка скорости",
     "Mobil.md",
@@ -236,7 +237,6 @@
     "DataBase/Клиенты.md",
     "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
     "Программы/Terminal/WindowsTerminal.md",
-    "Проблемы/Восстановление при загрузке.md",
-    "Tweak/Как быстро искать по различным параметрам служб Windows.md"
+    "Проблемы/Восстановление при загрузке.md"
   ]
 }
