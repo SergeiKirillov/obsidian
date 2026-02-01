@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Браузер/Chrome/Download.md",
+                "file": "Установка ОС/Экспорт ключей/Программы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Download"
+              "title": "Программы"
             }
           }
         ]
@@ -193,10 +193,12 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "5e1499b7e587ba9c",
+  "active": "8a09d3d009ed7e93",
   "lastOpenFiles": [
-    "Сайты для поиска софта.md",
     "Программы/Браузер/Chrome/Download.md",
+    "Установка ОС/Экспорт ключей/Программы.md",
+    "Установка ОС/Экспорт ключей",
+    "Сайты для поиска софта.md",
     "Программы/Браузер/Firefox/LibreWolf.md",
     "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Программы/NetWare/Настройка скорости",
@@ -218,7 +220,6 @@
     "Программы/Браузер/Chrome/Расширения/images",
     "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Программы/Браузер/Chrome/Расширения",
-    "Программы/Браузер/Chrome",
     "Tweak/Удаление следов действия.md",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Caramba Switcher.md",
@@ -236,7 +237,6 @@
     "conflict-files-obsidian-git.md",
     "DataBase/Клиенты.md",
     "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md",
-    "Программы/Terminal/WindowsTerminal.md",
-    "Проблемы/Восстановление при загрузке.md"
+    "Программы/Terminal/WindowsTerminal.md"
   ]
 }
