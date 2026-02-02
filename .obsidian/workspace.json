@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7708e59f5806afae",
+        "id": "e536a3ac659dfcf0",
         "type": "tabs",
         "children": [
           {
-            "id": "a22c0dabe8333331",
+            "id": "40034dc423882687",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "a22c0dabe8333331",
+  "active": "40034dc423882687",
   "lastOpenFiles": [
+    "Tweak/Раздача мобильного интернета.md",
+    "Программы/Удаленный доступ/RuDesktop.md",
     "Установка ОС/Экспорт ключей/PowerSheel.md",
     "Установка ОС/Экспорт ключей/Программы.md",
     "Программы/Браузер/Chrome/Download.md",
@@ -231,8 +233,6 @@
     "Программы/Переключение языка/Punto Switcher.md",
     "Программы/Переключение языка/Keyboard Ninja.md",
     "Программы/Графические/Растровые/Photoshop.md",
-    "conflict-files-obsidian-git.md",
-    "DataBase/Клиенты.md",
-    "Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
