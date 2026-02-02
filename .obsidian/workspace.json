@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e536a3ac659dfcf0",
+        "id": "95c85a4ac24e4f23",
         "type": "tabs",
         "children": [
           {
-            "id": "40034dc423882687",
+            "id": "7ea6660eccd19aa4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "40034dc423882687",
+  "active": "7ea6660eccd19aa4",
   "lastOpenFiles": [
+    "Ссылки/Поисковы системы/Поисковые системы уязвимостей..md",
+    "Ссылки/Поисковы системы",
     "Tweak/Раздача мобильного интернета.md",
     "Программы/Удаленный доступ/RuDesktop.md",
     "Установка ОС/Экспорт ключей/PowerSheel.md",
@@ -218,7 +220,6 @@
     "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
     "Программы/Браузер/Chrome/Расширения/images",
     "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
-    "Программы/Браузер/Chrome/Расширения",
     "Tweak/Удаление следов действия.md",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Caramba Switcher.md",
@@ -232,7 +233,6 @@
     "README.md",
     "Программы/Переключение языка/Punto Switcher.md",
     "Программы/Переключение языка/Keyboard Ninja.md",
-    "Программы/Графические/Растровые/Photoshop.md",
-    "conflict-files-obsidian-git.md"
+    "Программы/Графические/Растровые/Photoshop.md"
   ]
 }
