@@ -1,2 +1,1 @@
 
-%% Begin Waypoint %%
