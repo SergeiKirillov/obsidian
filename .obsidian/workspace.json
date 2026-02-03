@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95c85a4ac24e4f23",
+        "id": "79237c7c601fed0c",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea6660eccd19aa4",
+            "id": "cccb12265fc961c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "README"
             }
           }
         ]
@@ -189,8 +193,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "7ea6660eccd19aa4",
+  "active": "cccb12265fc961c9",
   "lastOpenFiles": [
+    "README.md",
+    "README_1.md",
     "Ссылки/Поисковы системы/Поисковые системы уязвимостей..md",
     "Ссылки/Поисковы системы",
     "Tweak/Раздача мобильного интернета.md",
@@ -230,9 +236,7 @@
     "Программы/Переключение языка/Pasted image 20260114072424.png",
     "Программы/Переключение языка/Pasted image 20260114072326.png",
     "Программы/Переключение языка/Pasted image 20260114072251.png",
-    "README.md",
     "Программы/Переключение языка/Punto Switcher.md",
-    "Программы/Переключение языка/Keyboard Ninja.md",
-    "Программы/Графические/Растровые/Photoshop.md"
+    "Программы/Переключение языка/Keyboard Ninja.md"
   ]
 }
