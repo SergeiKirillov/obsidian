@@ -11,10 +11,14 @@
             "id": "8482e18815022618",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "README"
             }
           }
         ]
@@ -186,7 +190,8 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Git: Commit-and-sync": false
+      "cmdr:Git: Commit-and-sync": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "8482e18815022618",
