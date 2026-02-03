@@ -1,109 +1,109 @@
 # Содержание хранилища
 
-- [[Сайты для поиска софта.md|Сайты для поиска софта]]
-- [[Mobil.md|Mobil]]
-- [[README.md|README]]
-- [[README_1.md|README_1]]
+- [Сайты для поиска софта](%D0%A1%D0%B0%D0%B9%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%20%D1%81%D0%BE%D1%84%D1%82%D0%B0.md)
+- [Mobil](Mobil.md)
+- [README](README.md)
+- [README_1](README_1.md)
 - 📁 Обновления
-  - [[Обновления/Блокировка обновления до Windows 11.md|Блокировка обновления до Windows 11]]
+  - [Блокировка обновления до Windows 11](%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%BE%20Windows%2011.md)
 - 📁 Проблемы
-  - [[Проблемы/Восстановление при загрузке.md|Восстановление при загрузке]]
+  - [Восстановление при загрузке](%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5.md)
 - 📁 Программирование
   - 📁 VScode
-    - [[Программирование/VScode/URL.md|URL]]
+    - [URL](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/VScode/URL.md)
 - 📁 Программы
-  - [[Программы/Программы.md|Программы]]
-  - [[Программы/PowerToys.md|PowerToys]]
-  - [[Программы/ScreenToGif.md|ScreenToGif]]
-  - [[Программы/ViveTool.md|ViveTool]]
-  - [[Программы/WinToys.md|WinToys]]
+  - [Программы](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.md)
+  - [PowerToys](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/PowerToys.md)
+  - [ScreenToGif](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/ScreenToGif.md)
+  - [ViveTool](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/ViveTool.md)
+  - [WinToys](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/WinToys.md)
   - 📁 Архиваторы
-    - [[Программы/Архиваторы/7Zip.md|7Zip]]
+    - [7Zip](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D1%8B/7Zip.md)
   - 📁 Браузер
     - 📁 Chrome
-      - [[Программы/Браузер/Chrome/Download.md|Download]]
+      - [Download](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/Chrome/Download.md)
       - 📁 Расширения
-        - [[Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md|+E Tab Wrangler]]
-        - [[Программы/Браузер/Chrome/Расширения/Wayback Machine.md|Wayback Machine]]
+        - [+E Tab Wrangler](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/Chrome/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/+E%20Tab%20Wrangler.md)
+        - [Wayback Machine](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/Chrome/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/Wayback%20Machine.md)
     - 📁 Firefox
-      - [[Программы/Браузер/Firefox/LibreWolf.md|LibreWolf]]
+      - [LibreWolf](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/Firefox/LibreWolf.md)
   - 📁 Графические
     - 📁 Растровые
-      - [[Программы/Графические/Растровые/Photoshop.md|Photoshop]]
+      - [Photoshop](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5/%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%8B%D0%B5/Photoshop.md)
   - 📁 Мусор
-    - [[Программы/Мусор/BleachBit.md|BleachBit]]
+    - [BleachBit](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9C%D1%83%D1%81%D0%BE%D1%80/BleachBit.md)
   - 📁 Пароли
-    - [[Программы/Пароли/BitwardenPasswordManager.md|BitwardenPasswordManager]]
+    - [BitwardenPasswordManager](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D0%B8/BitwardenPasswordManager.md)
   - 📁 Переключение языка
-    - [[Программы/Переключение языка/Arum Switcher.md|Arum Switcher]]
-    - [[Программы/Переключение языка/Caramba Switcher.md|Caramba Switcher]]
-    - [[Программы/Переключение языка/Key Switcher.md|Key Switcher]]
-    - [[Программы/Переключение языка/Keyboard Ninja.md|Keyboard Ninja]]
-    - [[Программы/Переключение языка/Punto Switcher.md|Punto Switcher]]
+    - [Arum Switcher](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/Arum%20Switcher.md)
+    - [Caramba Switcher](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/Caramba%20Switcher.md)
+    - [Key Switcher](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/Key%20Switcher.md)
+    - [Keyboard Ninja](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/Keyboard%20Ninja.md)
+    - [Punto Switcher](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/Punto%20Switcher.md)
   - 📁 Поиск
-    - [[Программы/Поиск/Everything.md|Everything]]
+    - [Everything](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA/Everything.md)
   - 📁 Сканер
-    - [[Программы/Сканер/NAPS2.md|NAPS2]]
+    - [NAPS2](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B5%D1%80/NAPS2.md)
   - 📁 Удаленный доступ
-    - [[Программы/Удаленный доступ/RuDesktop.md|RuDesktop]]
+    - [RuDesktop](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF/RuDesktop.md)
   - 📁 Download
     - 📁 Media
-      - [[Программы/Download/Media/ClipGrab.md|ClipGrab]]
+      - [ClipGrab](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Download/Media/ClipGrab.md)
   - 📁 NetWare
     - 📁 Настройка скорости
-      - [[Программы/NetWare/Настройка скорости/SG TCP Optimizer.md|SG TCP Optimizer]]
+      - [SG TCP Optimizer](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B8/SG%20TCP%20Optimizer.md)
     - 📁 Передача файлов
-      - [[Программы/NetWare/Передача файлов/Локально.md|Локально]]
+      - [Локально](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2/%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.md)
     - 📁 Статистика
-      - [[Программы/NetWare/Статистика/NetWork.md|NetWork]]
+      - [NetWork](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/NetWork.md)
     - 📁 DarkNet
-      - [[Программы/NetWare/DarkNet/i2P.md|i2P]]
+      - [i2P](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/DarkNet/i2P.md)
     - 📁 Host
-      - [[Программы/NetWare/Host/AcrylicDNSProxy.md|AcrylicDNSProxy]]
-      - [[Программы/NetWare/Host/Host.md|Host]]
+      - [AcrylicDNSProxy](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/Host/AcrylicDNSProxy.md)
+      - [Host](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/Host/Host.md)
     - 📁 Ping
-      - [[Программы/NetWare/Ping/EasyNetMonitor.md|EasyNetMonitor]]
+      - [EasyNetMonitor](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/NetWare/Ping/EasyNetMonitor.md)
   - 📁 ScreenSave
-    - [[Программы/ScreenSave/Fliglo.md|Fliglo]]
+    - [Fliglo](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/ScreenSave/Fliglo.md)
   - 📁 Terminal
-    - [[Программы/Terminal/WindowsTerminal.md|WindowsTerminal]]
+    - [WindowsTerminal](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Terminal/WindowsTerminal.md)
   - 📁 Torrent
-    - [[Программы/Torrent/Tixaty.md|Tixaty]]
+    - [Tixaty](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Torrent/Tixaty.md)
   - 📁 Virtual
     - 📁 VirtualBox
-      - [[Программы/Virtual/VirtualBox/DownloadVersion.md|DownloadVersion]]
+      - [DownloadVersion](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Virtual/VirtualBox/DownloadVersion.md)
   - 📁 Wallpaper
-    - [[Программы/Wallpaper/DynamicTheme.md|DynamicTheme]]
+    - [DynamicTheme](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Wallpaper/DynamicTheme.md)
 - 📁 Скрипты
   - 📁 Сетевые
-    - [[Скрипты/Сетевые/Как узнать открыт ли порт на ПК.md|Как узнать открыт ли порт на ПК]]
+    - [Как узнать открыт ли порт на ПК](%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5/%D0%9A%D0%B0%D0%BA%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%BB%D0%B8%20%D0%BF%D0%BE%D1%80%D1%82%20%D0%BD%D0%B0%20%D0%9F%D0%9A.md)
   - 📁 AutoHotkey
-    - [[Скрипты/AutoHotkey/URL download.md|URL download]]
+    - [URL download](%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B/AutoHotkey/URL%20download.md)
 - 📁 Ссылки
   - 📁 Поисковы системы
-    - [[Ссылки/Поисковы системы/Поисковые системы уязвимостей..md|Поисковые системы уязвимостей.]]
+    - [Поисковые системы уязвимостей.](%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D1%83%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B5%D0%B9..md)
   - 📁 Google
-    - [[Ссылки/Google/Анти портрет пользователя.md|Анти портрет пользователя]]
+    - [Анти портрет пользователя](%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/Google/%D0%90%D0%BD%D1%82%D0%B8%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.md)
   - 📁 OC
-    - [[Ссылки/OC/Linux.md|Linux]]
+    - [Linux](%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/OC/Linux.md)
 - 📁 Установка ОС
   - 📁 Активация
-    - [[Установка ОС/Активация/Online.md|Online]]
-    - [[Установка ОС/Активация/slmgr.md|slmgr]]
+    - [Online](%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9E%D0%A1/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F/Online.md)
+    - [slmgr](%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9E%D0%A1/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F/slmgr.md)
   - 📁 Экспорт ключей
-    - [[Установка ОС/Экспорт ключей/Программы.md|Программы]]
-    - [[Установка ОС/Экспорт ключей/PowerSheel.md|PowerSheel]]
+    - [Программы](%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9E%D0%A1/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.md)
+    - [PowerSheel](%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9E%D0%A1/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9/PowerSheel.md)
 - 📁 DataBase
-  - [[DataBase/Клиенты.md|Клиенты]]
+  - [Клиенты](DataBase/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B.md)
 - 📁 Templater
-  - [[Templater/Содержание.md|Содержание]]
+  - [Содержание](Templater/%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5.md)
 - 📁 Tweak
-  - [[Tweak/Как быстро искать по различным параметрам служб Windows.md|Как быстро искать по различным параметрам служб Windows]]
-  - [[Tweak/Раздача мобильного интернета.md|Раздача мобильного интернета]]
-  - [[Tweak/РежимБога.md|РежимБога]]
-  - [[Tweak/Удаление следов действия.md|Удаление следов действия]]
-  - [[Tweak/УдалениеПрограммПослеУстановки.md|УдалениеПрограммПослеУстановки]]
-  - [[Tweak/УдалениеAI.md|УдалениеAI]]
-  - [[Tweak/Cкрыть главную страницу Параметров.md|Cкрыть главную страницу Параметров]]
-  - [[Tweak/Edge.md|Edge]]
-  - [[Tweak/Tвик для отключения рекомендуемого в меню Пуск Windows 11.md|Tвик для отключения рекомендуемого в меню Пуск Windows 11]]
+  - [Как быстро искать по различным параметрам служб Windows](Tweak/%D0%9A%D0%B0%D0%BA%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE%20%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%BC%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%BC%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%20Windows.md)
+  - [Раздача мобильного интернета](Tweak/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0.md)
+  - [РежимБога](Tweak/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%D0%91%D0%BE%D0%B3%D0%B0.md)
+  - [Удаление следов действия](Tweak/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%20%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F.md)
+  - [УдалениеПрограммПослеУстановки](Tweak/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8.md)
+  - [УдалениеAI](Tweak/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5AI.md)
+  - [Cкрыть главную страницу Параметров](Tweak/C%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%83%D1%8E%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%83%20%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.md)
+  - [Edge](Tweak/Edge.md)
+  - [Tвик для отключения рекомендуемого в меню Пуск Windows 11](Tweak/T%D0%B2%D0%B8%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B2%20%D0%BC%D0%B5%D0%BD%D1%8E%20%D0%9F%D1%83%D1%81%D0%BA%20Windows%2011.md)

@@ -25,7 +25,13 @@ module.exports = async function (tp, app) {
 		if (!current.__files) current.__files = [];
 		current.__files.push(f);
 	}
-
+	
+	function toGithubLink(file) {
+		// GitHub любит URL-encoding для пробелов
+		const path = encodeURI(file.path);
+		return `[${file.basename}](${path})`;
+	}
+	
 	function render(node, depth = 0) {
 		let out = "";
 		const indent = "  ".repeat(depth);
@@ -37,7 +43,7 @@ module.exports = async function (tp, app) {
 			);
 
 			for (const f of sorted) {
-				out += `${indent}- [[${f.path}|${f.basename}]]\n`;
+				out += `${indent}- ${toGithubLink(f)}\n`;
 			}
 		}
 
