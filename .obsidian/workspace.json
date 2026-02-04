@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
+                "file": "Tweak/Нововедение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SG TCP Optimizer"
+              "title": "Нововедение"
             }
           }
         ]
@@ -193,8 +193,20 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "5e1499b7e587ba9c",
+  "active": "8a09d3d009ed7e93",
   "lastOpenFiles": [
+    "Tweak/out-gridview.mp4",
+    "Tweak/Нововедение.md",
+    "Tweak/Edge.md",
+    "Tweak/Cкрыть главную страницу Параметров.md",
+    "Tweak/УдалениеAI.md",
+    "Tweak/УдалениеПрограммПослеУстановки.md",
+    "Tweak/Удаление следов действия.md",
+    "Tweak/РежимБога.md",
+    "Tweak/Раздача мобильного интернета.md",
+    "Tweak/Как быстро искать по различным параметрам служб Windows.md",
+    "Tweak/откл. реком. в меню Пуск Windows 11.md",
+    "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Установка ОС/Экспорт ключей/Программы.md",
     "Установка ОС/Экспорт ключей/PowerSheel.md",
     "Установка ОС/Экспорт ключей",
@@ -205,38 +217,26 @@
     "Программы/Удаленный доступ",
     "Программы/Программы.md",
     "Программы/Браузер/Chrome/Download.md",
-    "Tweak/Раздача мобильного интернета.md",
     "Templater/Script/vaultWaypoint.js",
     "Templater/Содержание.md",
     "Templater/Script",
     "Templater",
     "README_1.md",
     "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
-    "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Программы/NetWare/Настройка скорости",
     "Mobil.md",
     "Программы/Браузер/Firefox/LibreWolf.md",
     "Программы/Браузер/Firefox",
     "Обновления/Блокировка обновления до Windows 11.md",
     "Программы/NetWare/Передача файлов/Локально.md",
-    "Установка ОС/Активация/slmgr.md",
-    "Установка ОС/Активация/Online.md",
     "Установка ОС/Активация",
     "Установка ОС",
-    "Ссылки/OC/Linux.md",
-    "Ссылки/Google/Анти портрет пользователя.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
-    "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
-    "Tweak/Удаление следов действия.md",
     "Pasted image 20260106093146.png",
-    "Программы/Переключение языка/Caramba Switcher.md",
-    "Программы/Переключение языка/Arum Switcher.md",
-    "Программы/Переключение языка/Key Switcher.md",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
     "Программы/Переключение языка/Pasted image 20260114072518.png",
     "Программы/Переключение языка/Pasted image 20260114072424.png",
     "Программы/Переключение языка/Pasted image 20260114072326.png",
-    "Программы/Переключение языка/Pasted image 20260114072251.png",
-    "README.md"
+    "Программы/Переключение языка/Pasted image 20260114072251.png"
   ]
 }
