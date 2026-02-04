@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7de199a1e0ce88",
+        "id": "1c04de99a56c6e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "cab25d90e4deb645",
+            "id": "8a09d3d009ed7e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SG TCP Optimizer"
             }
           }
         ]
@@ -190,45 +190,43 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Git: Commit-and-sync": false,
-      "templater-obsidian:Templater": false
+      "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "cab25d90e4deb645",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
-    "Сайты для поиска софта.md",
-    "README.md",
-    "Templater/Содержание.md",
-    "Templater/Script/vaultWaypoint.js",
-    "Templater/Script",
-    "Templater/Новая папка",
-    "Templater",
-    "Новая папка",
-    "Программы/Программы.md",
-    "README_1.md",
+    "Установка ОС/Экспорт ключей/Программы.md",
+    "Установка ОС/Экспорт ключей/PowerSheel.md",
+    "Установка ОС/Экспорт ключей",
     "Ссылки/Поисковы системы/Поисковые системы уязвимостей..md",
     "Ссылки/Поисковы системы",
-    "Tweak/Раздача мобильного интернета.md",
+    "Сайты для поиска софта.md",
     "Программы/Удаленный доступ/RuDesktop.md",
-    "Установка ОС/Экспорт ключей/PowerSheel.md",
-    "Установка ОС/Экспорт ключей/Программы.md",
+    "Программы/Удаленный доступ",
+    "Программы/Программы.md",
     "Программы/Браузер/Chrome/Download.md",
-    "Установка ОС/Экспорт ключей",
-    "Программы/Браузер/Firefox/LibreWolf.md",
+    "Tweak/Раздача мобильного интернета.md",
+    "Templater/Script/vaultWaypoint.js",
+    "Templater/Содержание.md",
+    "Templater/Script",
+    "Templater",
+    "README_1.md",
+    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Программы/NetWare/Настройка скорости",
     "Mobil.md",
+    "Программы/Браузер/Firefox/LibreWolf.md",
     "Программы/Браузер/Firefox",
     "Обновления/Блокировка обновления до Windows 11.md",
     "Программы/NetWare/Передача файлов/Локально.md",
     "Установка ОС/Активация/slmgr.md",
     "Установка ОС/Активация/Online.md",
     "Установка ОС/Активация",
+    "Установка ОС",
     "Ссылки/OC/Linux.md",
     "Ссылки/Google/Анти портрет пользователя.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
-    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Tweak/Удаление следов действия.md",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Caramba Switcher.md",
@@ -238,6 +236,7 @@
     "Программы/Переключение языка/Pasted image 20260114072518.png",
     "Программы/Переключение языка/Pasted image 20260114072424.png",
     "Программы/Переключение языка/Pasted image 20260114072326.png",
-    "Программы/Переключение языка/Pasted image 20260114072251.png"
+    "Программы/Переключение языка/Pasted image 20260114072251.png",
+    "README.md"
   ]
 }
