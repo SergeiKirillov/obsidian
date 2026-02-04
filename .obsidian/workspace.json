@@ -182,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": true,
       "canvas:Создать новый холст": false,
