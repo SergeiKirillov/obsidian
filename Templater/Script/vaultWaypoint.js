@@ -53,8 +53,10 @@ module.exports = async function (tp, app) {
 			.sort((a, b) => a.localeCompare(b));
 
 		for (const folder of folders) {
-			out += `${indent}- 📁 ${folder}\n`;
+			out += `\n${indent}<details>\n`;
+			out += `${indent}<summary>📁 ${folder}</summary>\n\n`;
 			out += render(node[folder], depth + 1);
+			out += `${indent}</details>\n`;
 		}
 
 		return out;
