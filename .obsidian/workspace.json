@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Проблемы/Подключение без доступа к Интернету в Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Подключение без доступа к Интернету в Windows"
             }
           }
         ]
@@ -195,8 +195,11 @@
   },
   "active": "f21f0af9357b8452",
   "lastOpenFiles": [
-    "Tweak/WinGet.md",
+    "Проблемы/images/Pasted image 20260205191047.png",
+    "Проблемы/images",
     "README.md",
+    "Проблемы/Подключение без доступа к Интернету в Windows.md",
+    "Tweak/WinGet.md",
     "conflict-files-obsidian-git.md",
     "Tweak/откл. реком. в меню Пуск Windows 11.md",
     "Tweak/Нововедение.md",
@@ -226,12 +229,9 @@
     "Программы/NetWare/Передача файлов/Локально.md",
     "Установка ОС/Активация/slmgr.md",
     "Установка ОС/Активация/Online.md",
-    "Установка ОС/Активация",
     "Ссылки/OC/Linux.md",
     "Ссылки/Google/Анти портрет пользователя.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
-    "Программы/Браузер/Chrome/Расширения/Wayback Machine.md",
-    "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
     "Программы/Переключение языка/Pasted image 20260114072518.png",
