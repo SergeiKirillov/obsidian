@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "РежимБога"
             }
+          },
+          {
+            "id": "0e1d1ca7e3c073ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "fb72454a3a6f9d80",
+  "active": "0e1d1ca7e3c073ca",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Проблемы/Подключение без доступа к Интернету в Windows.md",
