@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tweak/РежимБога.md",
+                "file": "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "РежимБога"
-            }
-          },
-          {
-            "id": "0e1d1ca7e3c073ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.7"
+              "title": "CUBIC, CTCP, BBR"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,8 +194,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "0e1d1ca7e3c073ca",
+  "active": "fb72454a3a6f9d80",
   "lastOpenFiles": [
+    "Tweak/РежимБога.md",
+    "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
+    "Tweak/Сетевые",
     "conflict-files-obsidian-git.md",
     "Проблемы/Подключение без доступа к Интернету в Windows.md",
     "Проблемы/images/Pasted image 20260205191047.png",
@@ -221,7 +211,6 @@
     "Tweak/УдалениеAI.md",
     "Tweak/УдалениеПрограммПослеУстановки.md",
     "Tweak/Удаление следов действия.md",
-    "Tweak/РежимБога.md",
     "Tweak/Раздача мобильного интернета.md",
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
     "Tweak/откл. реком. в меню Пуск Windows 11.md",
@@ -244,8 +233,6 @@
     "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
     "Программы/NetWare/Настройка скорости",
     "Mobil.md",
-    "Программы/Браузер/Firefox/LibreWolf.md",
-    "Программы/Браузер/Firefox",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
