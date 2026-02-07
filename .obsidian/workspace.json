@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "face63984f68cca2",
+        "id": "468c1ddd1788bee8",
         "type": "tabs",
         "children": [
           {
-            "id": "311f8cab631f351e",
+            "id": "fb72454a3a6f9d80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tweak/РежимБога.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "РежимБога"
+            }
+          },
+          {
+            "id": "0e1d1ca7e3c073ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +207,9 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "311f8cab631f351e",
+  "active": "0e1d1ca7e3c073ca",
   "lastOpenFiles": [
     "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
-    "Tweak/РежимБога.md",
     "Tweak/Сетевые",
     "conflict-files-obsidian-git.md",
     "Проблемы/Подключение без доступа к Интернету в Windows.md",
@@ -207,6 +223,7 @@
     "Tweak/УдалениеAI.md",
     "Tweak/УдалениеПрограммПослеУстановки.md",
     "Tweak/Удаление следов действия.md",
+    "Tweak/РежимБога.md",
     "Tweak/Раздача мобильного интернета.md",
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
     "Tweak/откл. реком. в меню Пуск Windows 11.md",
