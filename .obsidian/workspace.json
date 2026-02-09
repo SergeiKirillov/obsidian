@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79a7a6475d55cbae",
+        "id": "fca075e87705e8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3245c942ecadaa25",
+            "id": "dbd5cc8518e8f46e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,8 +190,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "3245c942ecadaa25",
+  "active": "dbd5cc8518e8f46e",
   "lastOpenFiles": [
+    "Ссылки/Google/Данные аккаунта.md",
+    "Ссылки/Данные",
     "Tweak/РежимБога.md",
     "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
     "Tweak/Сетевые",
@@ -227,8 +229,6 @@
     "Templater",
     "README_1.md",
     "Программы/Браузер/Chrome/Расширения/+E Tab Wrangler.md",
-    "Программы/NetWare/Настройка скорости",
-    "Mobil.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
