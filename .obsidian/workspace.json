@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/Download Media/Помошник.md",
+                "file": "Ссылки/Техника/Машины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Помошник"
+              "title": "Машины"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "c28468b47ff09173",
   "lastOpenFiles": [
-    "Ссылки/Driver/Pack.md",
     "Ссылки/Download Media/Помошник.md",
+    "Ссылки/Техника/Машины.md",
+    "Ссылки/Техника",
+    "Ссылки/Driver/Pack.md",
     "Ссылки/Download Media",
     "Ссылки/Google/Keep.md",
     "Ссылки/Driver",
@@ -231,8 +233,6 @@
     "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Установка ОС/Экспорт ключей/Программы.md",
     "Установка ОС/Экспорт ключей/PowerSheel.md",
-    "Установка ОС/Экспорт ключей",
-    "Ссылки/Поисковы системы/Поисковые системы уязвимостей..md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
