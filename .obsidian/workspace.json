@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/РК.md",
+                "file": "Ссылки/Электронные учебники.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "РК"
+              "title": "Электронные учебники"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "bf196b41d9d12794",
   "lastOpenFiles": [
-    "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
     "Ссылки/РК.md",
+    "Ссылки/Электронные учебники.md",
+    "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
     "Tweak/images/Pasted image 20260211205628.png",
     "Tweak/images/Pasted image 20260211205512.png",
     "Tweak/images",
@@ -235,7 +236,6 @@
     "Tweak/Edge.md",
     "Tweak/Cкрыть главную страницу Параметров.md",
     "Tweak/УдалениеAI.md",
-    "Tweak/УдалениеПрограммПослеУстановки.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
