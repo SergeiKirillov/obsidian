@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/OC/Windows.md",
+                "file": "HardWare/Printer/Картридж.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows"
+              "title": "Картридж"
             }
           }
         ]
@@ -196,8 +196,11 @@
   },
   "active": "c28468b47ff09173",
   "lastOpenFiles": [
-    "Ссылки/Torrent/WWW.md",
     "Ссылки/OC/Windows.md",
+    "HardWare/Printer/Картридж.md",
+    "HardWare/Printer",
+    "HardWare",
+    "Ссылки/Torrent/WWW.md",
     "Ссылки/Torrent/Сайт.md",
     "Ссылки/Техника/Машины.md",
     "Ссылки/Download Media/Помошник.md",
@@ -220,10 +223,8 @@
     "conflict-files-obsidian-git.md",
     "Проблемы/Подключение без доступа к Интернету в Windows.md",
     "Проблемы/images/Pasted image 20260205191047.png",
-    "Проблемы/images",
     "Tweak/Нововедение.md",
     "Tweak/WinGet.md",
-    "Tweak/out-gridview.mp4",
     "Tweak/Edge.md",
     "Tweak/Cкрыть главную страницу Параметров.md",
     "Tweak/УдалениеAI.md",
@@ -232,7 +233,6 @@
     "Tweak/Раздача мобильного интернета.md",
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
     "Tweak/откл. реком. в меню Пуск Windows 11.md",
-    "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
