@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fca075e87705e8c5",
+        "id": "9549e5f08d6f3d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "dbd5cc8518e8f46e",
+            "id": "c28468b47ff09173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/Torrent/Сайт.md",
+                "file": "Программы/Программы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сайт"
+              "title": "Программы"
             }
           }
         ]
@@ -194,9 +194,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "dbd5cc8518e8f46e",
+  "active": "c28468b47ff09173",
   "lastOpenFiles": [
     "Ссылки/Torrent/Сайт.md",
+    "Ссылки/Софт",
     "Ссылки/Torrent",
     "Ссылки/Google/Данные аккаунта.md",
     "Ссылки/Данные",
@@ -231,8 +232,6 @@
     "Программы/Браузер/Chrome/Download.md",
     "Templater/Script/vaultWaypoint.js",
     "Templater/Содержание.md",
-    "Templater/Script",
-    "README_1.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
