@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
+                "file": "Ссылки/РК.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как добавить значки на рабочий стол Windows 1X"
+              "title": "РК"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "bf196b41d9d12794",
   "lastOpenFiles": [
+    "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
+    "Ссылки/РК.md",
     "Tweak/images/Pasted image 20260211205628.png",
     "Tweak/images/Pasted image 20260211205512.png",
     "Tweak/images",
-    "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
     "Проблемы/Как включить F8 при загрузке Windows 1X.md",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Проблемы/Восстановление при загрузке.md",
@@ -240,7 +241,6 @@
     "Программы/Переключение языка/Pasted image 20260114072041.png",
     "Программы/Переключение языка/Pasted image 20260114072518.png",
     "Программы/Переключение языка/Pasted image 20260114072424.png",
-    "Программы/Переключение языка/Pasted image 20260114072326.png",
-    "Программы/Переключение языка/Pasted image 20260114072251.png"
+    "Программы/Переключение языка/Pasted image 20260114072326.png"
   ]
 }
