@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/Torrent/WWW.md",
+                "file": "Ссылки/OC/Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWW"
+              "title": "Windows"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "c28468b47ff09173",
   "lastOpenFiles": [
-    "Ссылки/Torrent/Сайт.md",
     "Ссылки/Torrent/WWW.md",
+    "Ссылки/OC/Windows.md",
+    "Ссылки/Torrent/Сайт.md",
     "Ссылки/Техника/Машины.md",
     "Ссылки/Download Media/Помошник.md",
     "Ссылки/Техника",
@@ -232,7 +233,6 @@
     "Tweak/Как быстро искать по различным параметрам служб Windows.md",
     "Tweak/откл. реком. в меню Пуск Windows 11.md",
     "Программы/NetWare/Настройка скорости/SG TCP Optimizer.md",
-    "Установка ОС/Экспорт ключей/Программы.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
