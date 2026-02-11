@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9549e5f08d6f3d5d",
+        "id": "d9a43151fd569cd0",
         "type": "tabs",
         "children": [
           {
-            "id": "c28468b47ff09173",
+            "id": "bf196b41d9d12794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проблемы/Как включить F8 при загрузке Windows 1X.md",
+                "file": "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как включить F8 при загрузке Windows 1X"
+              "title": "Как добавить значки на рабочий стол Windows 1X"
             }
           }
         ]
@@ -194,11 +194,12 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "c28468b47ff09173",
+  "active": "bf196b41d9d12794",
   "lastOpenFiles": [
+    "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
+    "Проблемы/Как включить F8 при загрузке Windows 1X.md",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Проблемы/Восстановление при загрузке.md",
-    "Проблемы/Как включить F8 при загрузке Windows 1X.md",
     "HardWare/Printer/Картридж.md",
     "Ссылки/OC/Windows.md",
     "HardWare/Printer",
