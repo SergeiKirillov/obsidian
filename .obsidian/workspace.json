@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/Электронные учебники.md",
+                "file": "Ссылки/Torrent/Сайт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Электронные учебники"
+              "title": "Сайт"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "bf196b41d9d12794",
   "lastOpenFiles": [
-    "Ссылки/РК.md",
+    "Ссылки/Torrent/WWW.md",
+    "Ссылки/Torrent/Сайт.md",
     "Ссылки/Электронные учебники.md",
+    "Ссылки/РК.md",
     "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
     "Tweak/images/Pasted image 20260211205628.png",
     "Tweak/images/Pasted image 20260211205512.png",
@@ -209,8 +211,6 @@
     "Ссылки/OC/Windows.md",
     "HardWare/Printer",
     "HardWare",
-    "Ссылки/Torrent/WWW.md",
-    "Ссылки/Torrent/Сайт.md",
     "Ссылки/Техника/Машины.md",
     "Ссылки/Download Media/Помошник.md",
     "Ссылки/Техника",
