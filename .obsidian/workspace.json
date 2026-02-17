@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/VPN.md",
+                "file": "Установка ОС/Активация/КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN"
+              "title": "КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "bf196b41d9d12794",
   "lastOpenFiles": [
-    "Ссылки/Torrent/Сайт.md",
     "Программы/VPN.md",
+    "Установка ОС/Активация/КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10.md",
+    "Ссылки/Torrent/Сайт.md",
     "Ссылки/Torrent/WWW.md",
     "Ссылки/Электронные учебники.md",
     "Ссылки/РК.md",
@@ -235,7 +236,6 @@
     "Tweak/Нововедение.md",
     "Tweak/WinGet.md",
     "Tweak/Edge.md",
-    "Tweak/Cкрыть главную страницу Параметров.md",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
     "Программы/Переключение языка/Pasted image 20260114072041.png",
