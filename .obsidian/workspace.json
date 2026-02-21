@@ -11,10 +11,14 @@
             "id": "5f71ec2908e3fe27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Как очистить статистику сети в Windows 10 или 11"
             }
           }
         ]
@@ -192,6 +196,8 @@
   },
   "active": "5f71ec2908e3fe27",
   "lastOpenFiles": [
+    "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
+    "Tweak/Сетевые/Статистика",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
     "Tweak/Производительность/images/Pasted image 20260221173806.png",
     "Tweak/Производительность/images/Pasted image 20260221173641.png",
@@ -225,7 +231,6 @@
     "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
     "Tweak/images/Pasted image 20260211205628.png",
     "Tweak/images/Pasted image 20260211205512.png",
-    "Tweak/images",
     "Проблемы/Как включить F8 при загрузке Windows 1X.md",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Проблемы/Восстановление при загрузке.md",
