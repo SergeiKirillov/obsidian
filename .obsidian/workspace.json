@@ -164,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +189,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "55c5d5fc0d5b3f07",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
     "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
