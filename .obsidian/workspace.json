@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dad7573f6ff95532",
+        "id": "bc52feccbbb22753",
         "type": "tabs",
         "children": [
           {
-            "id": "5f71ec2908e3fe27",
+            "id": "55c5d5fc0d5b3f07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Как очистить статистику сети в Windows 10 или 11"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -194,9 +190,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "5f71ec2908e3fe27",
+  "active": "55c5d5fc0d5b3f07",
   "lastOpenFiles": [
     "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
+    "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
+    "Tweak/Сетевые/Статистика/images",
     "Tweak/Сетевые/Статистика",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
     "Tweak/Производительность/images/Pasted image 20260221173806.png",
@@ -220,7 +218,6 @@
     "Программы/Утилиты/Sordum.md",
     "Программы/Утилиты/NirSoft.md",
     "Программы/Утилиты/Sysinternals Suite.md",
-    "Программы/Утилиты",
     "Установка ОС/Активация/КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10.md",
     "Tweak/Без названия.md",
     "Программы/VPN.md",
@@ -239,8 +236,6 @@
     "Ссылки/Техника/Машины.md",
     "Ссылки/Download Media/Помошник.md",
     "Ссылки/Driver/Pack.md",
-    "Ссылки/Google/Keep.md",
-    "Ссылки/MicroSoft/Ресурсы.md",
-    "Проблемы/images/Pasted image 20260205191047.png"
+    "Ссылки/Google/Keep.md"
   ]
 }
