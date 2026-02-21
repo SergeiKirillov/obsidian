@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b8c2522d991f0b",
+        "id": "538bfb8e1834149a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe1a5bc0f3678143",
+            "id": "c926b29ae49cdbe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программы/Утилиты/Sordum.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sordum"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "fe1a5bc0f3678143",
+  "active": "c926b29ae49cdbe8",
   "lastOpenFiles": [
     "Программы/Утилиты/Sordum.md",
     "Программы/Утилиты/NirSoft.md",
