@@ -190,8 +190,12 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "c926b29ae49cdbe8",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
+    "Образы/Android",
+    "Образы/Linux",
+    "Образы/Windows",
+    "Образы",
     "Программы/Утилиты/Sordum.md",
     "Программы/Утилиты/NirSoft.md",
     "Программы/Утилиты/Sysinternals Suite.md",
@@ -223,14 +227,10 @@
     "Ссылки/Driver",
     "Ссылки/MicroSoft/Ресурсы.md",
     "Ссылки/Сайты для поиска софта.md",
-    "Ссылки/MicroSoft",
     "Программы/Программы.md",
-    "Ссылки/Софт",
-    "Ссылки/Torrent",
     "Ссылки/Google/Данные аккаунта.md",
     "Tweak/РежимБога.md",
     "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
-    "conflict-files-obsidian-git.md",
     "Проблемы/images/Pasted image 20260205191047.png",
     "Программы/Браузер/Chrome/Расширения/images/Pasted image 20260128152906.png",
     "Pasted image 20260106093146.png",
