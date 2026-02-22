@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc52feccbbb22753",
+        "id": "52bc265d0e5c0d19",
         "type": "tabs",
         "children": [
           {
-            "id": "55c5d5fc0d5b3f07",
+            "id": "98252b86f6a1675b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tweak/Сетевые/Сетевое имя на Android.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Сетевое имя на Android"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -194,9 +190,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "55c5d5fc0d5b3f07",
+  "active": "98252b86f6a1675b",
   "lastOpenFiles": [
     "Tweak/Сетевые/Сетевое имя на Android.md",
+    "Tweak/Сетевые/Личный кабинет Microsoft.md",
+    "Без названия",
     "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Статистика/images",
@@ -219,7 +217,6 @@
     "Образы/Android",
     "Образы/Linux",
     "Образы/Windows",
-    "Образы",
     "Программы/Утилиты/Sordum.md",
     "Программы/Утилиты/NirSoft.md",
     "Программы/Утилиты/Sysinternals Suite.md",
@@ -240,7 +237,6 @@
     "Ссылки/OC/Windows.md",
     "Ссылки/Техника/Машины.md",
     "Ссылки/Download Media/Помошник.md",
-    "Ссылки/Driver/Pack.md",
-    "Ссылки/Google/Keep.md"
+    "Ссылки/Driver/Pack.md"
   ]
 }
