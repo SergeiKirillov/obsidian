@@ -11,10 +11,14 @@
             "id": "55c5d5fc0d5b3f07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tweak/Сетевые/Сетевое имя на Android.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Сетевое имя на Android"
             }
           }
         ]
@@ -190,8 +194,9 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "5e1499b7e587ba9c",
+  "active": "55c5d5fc0d5b3f07",
   "lastOpenFiles": [
+    "Tweak/Сетевые/Сетевое имя на Android.md",
     "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Статистика/images",
