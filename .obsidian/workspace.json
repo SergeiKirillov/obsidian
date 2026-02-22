@@ -11,10 +11,14 @@
             "id": "98252b86f6a1675b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tweak/Сетевые/TTL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "TTL"
             }
           }
         ]
@@ -192,6 +196,14 @@
   },
   "active": "98252b86f6a1675b",
   "lastOpenFiles": [
+    "Tweak/Сетевые/images/Pasted image 20260222213429.png",
+    "Tweak/Сетевые/images/Pasted image 20260222213320.png",
+    "Tweak/Сетевые/images/Pasted image 20260222213137.png",
+    "Tweak/Сетевые/images/Pasted image 20260222213122.png",
+    "Tweak/Сетевые/images/Pasted image 20260222213100.png",
+    "Tweak/Сетевые/images/Pasted image 20260222213050.png",
+    "Tweak/Сетевые/images",
+    "Tweak/Сетевые/TTL.md",
     "Tweak/Сетевые/Сетевое имя на Android.md",
     "Tweak/Сетевые/Личный кабинет Microsoft.md",
     "Без названия",
@@ -204,11 +216,9 @@
     "Tweak/Производительность/images/Pasted image 20260221173641.png",
     "Tweak/Производительность/images/Pasted image 20260221173552.png",
     "Tweak/Производительность/images/Pasted image 20260221173304.png",
-    "Tweak/Производительность/images/Pasted image 20260221173233.png",
     "Tweak/Производительность/images",
     "Tweak/Производительность",
     "Tweak/Сетевые/Общая папка/Windows блокирует доступ к общей папке из-за политик вашей организации.md",
-    "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
     "Tweak/Сетевые/Общая папка/images",
     "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
     "Tweak/Сетевые/Общая папка",
@@ -216,7 +226,6 @@
     "Образы/Android/FydeOS.md",
     "Образы/Android",
     "Образы/Linux",
-    "Образы/Windows",
     "Программы/Утилиты/Sordum.md",
     "Программы/Утилиты/NirSoft.md",
     "Программы/Утилиты/Sysinternals Suite.md",
@@ -228,15 +237,10 @@
     "Ссылки/Электронные учебники.md",
     "Ссылки/РК.md",
     "Tweak/Как добавить значки на рабочий стол Windows 1X.md",
-    "Tweak/images/Pasted image 20260211205628.png",
-    "Tweak/images/Pasted image 20260211205512.png",
     "Проблемы/Как включить F8 при загрузке Windows 1X.md",
-    "Проблемы/images/Pasted image 20260211204628.png",
     "Проблемы/Восстановление при загрузке.md",
     "HardWare/Printer/Картридж.md",
     "Ссылки/OC/Windows.md",
-    "Ссылки/Техника/Машины.md",
-    "Ссылки/Download Media/Помошник.md",
-    "Ссылки/Driver/Pack.md"
+    "Ссылки/Техника/Машины.md"
   ]
 }
