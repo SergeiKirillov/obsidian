@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52bc265d0e5c0d19",
+        "id": "1280becd16fff2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "98252b86f6a1675b",
+            "id": "8774951ee1755a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tweak/Сетевые/TTL.md",
+                "file": "Tweak/Журнал событий/Мониторинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTL"
+              "title": "Мониторинг"
             }
           }
         ]
@@ -194,8 +194,11 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "98252b86f6a1675b",
+  "active": "8774951ee1755a81",
   "lastOpenFiles": [
+    "Tweak/Журнал событий/Мониторинг.md",
+    "Tweak/Журнал событий",
+    "Tweak/Сетевые/TTL.md",
     "Tweak/Сетевые/images/Pasted image 20260222214325.png",
     "Tweak/Сетевые/host/Acrylic DNS Proxy.md",
     "Tweak/Сетевые/host/images/Pasted image 20260222214258.png",
@@ -203,7 +206,6 @@
     "Tweak/Сетевые/host/images/Pasted image 20260222214244.png",
     "Tweak/Сетевые/host/images/Pasted image 20260222214237.png",
     "Tweak/Сетевые/host/images",
-    "Tweak/Сетевые/TTL.md",
     "Tweak/Сетевые/host/hosts.txt",
     "Tweak/Сетевые/host/hosts.txt.crdownload",
     "Tweak/Сетевые/host",
@@ -213,7 +215,6 @@
     "Tweak/Сетевые/images/Pasted image 20260222213137.png",
     "Tweak/Сетевые/images/Pasted image 20260222213122.png",
     "Tweak/Сетевые/images/Pasted image 20260222213100.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213050.png",
     "Tweak/Сетевые/images",
     "Tweak/Сетевые/Сетевое имя на Android.md",
     "Tweak/Сетевые/Личный кабинет Microsoft.md",
@@ -222,7 +223,6 @@
     "Tweak/Сетевые/Статистика/images",
     "Tweak/Сетевые/Статистика",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
-    "Tweak/Производительность/images",
     "Tweak/Сетевые/Общая папка/Windows блокирует доступ к общей папке из-за политик вашей организации.md",
     "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
     "README.md",
