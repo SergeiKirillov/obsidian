@@ -11,10 +11,14 @@
             "id": "adba06174aad7b94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Установка ОС/Предотвращение автоматической установки приложений.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Предотвращение автоматической установки приложений"
             }
           }
         ]
@@ -173,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +196,8 @@
   "active": "adba06174aad7b94",
   "lastOpenFiles": [
     "Tweak/Журнал событий/Мониторинг.md",
+    "Установка ОС/Предотвращение автоматической установки приложений.md",
+    "Установка ОС/Без названия",
     "Tweak/Журнал событий/images/Pasted image 20260301084704.png",
     "Tweak/Журнал событий/images/Pasted image 20260301084603.png",
     "Tweak/Журнал событий/images/demo-monitoring.mp4",
@@ -214,7 +219,6 @@
     "Tweak/Сетевые/Новая папка",
     "Tweak/Сетевые/images/Pasted image 20260222213429.png",
     "Tweak/Сетевые/images/Pasted image 20260222213320.png",
-    "Tweak/Сетевые/images",
     "Tweak/Сетевые/Сетевое имя на Android.md",
     "Tweak/Сетевые/Личный кабинет Microsoft.md",
     "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
