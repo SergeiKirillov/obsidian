@@ -1,6 +1,6 @@
 # Содержание хранилища
 
-- [Сайты для поиска софта](%D0%A1%D0%B0%D0%B9%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%20%D1%81%D0%BE%D1%84%D1%82%D0%B0.md)
+- [Сайты для поиска софта](Ссылки/Сайты%20для%20поиска%20софта.md)
 - [Mobil](Mobil.md)
 - [README](README.md)
 - 📁 Обновления
@@ -12,10 +12,10 @@
     - [URL](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/VScode/URL.md)
 - 📁 Программы
   - [Программы](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.md)
-  - [PowerToys](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/PowerToys.md)
+  - [PowerToys](Программы/Утилиты/PowerToys.md)
   - [ScreenToGif](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/ScreenToGif.md)
   - [ViveTool](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/ViveTool.md)
-  - [WinToys](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/WinToys.md)
+  - [WinToys](Программы/Утилиты/WinToys.md)
   - 📁 Архиваторы
     - [7Zip](%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D1%8B/7Zip.md)
   - 📁 Браузер
