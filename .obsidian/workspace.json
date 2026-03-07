@@ -10,15 +10,17 @@
           {
             "id": "709b21aa00d8896e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программы/Документация/Zeal - браузер для оффлайн документации.md",
+                "file": "Tweak/Быстрый переход.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Zeal - браузер для оффлайн документации"
+              "title": "Быстрый переход"
             }
           }
         ]
@@ -196,10 +198,10 @@
   },
   "active": "709b21aa00d8896e",
   "lastOpenFiles": [
+    "Программы/Документация/Zeal - браузер для оффлайн документации.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
     "Программы/Документация/images",
     "Tweak/Быстрый переход.md",
-    "Программы/Документация/Zeal - браузер для оффлайн документации.md",
     "Программы/Документация",
     "HardWare/Printer/Картридж.md",
     "Tweak/Как отключить экран блокировки.md",
@@ -240,7 +242,6 @@
     "Tweak/Сетевые/images/Pasted image 20260222214325.png",
     "Tweak/Сетевые/images/Pasted image 20260222213429.png",
     "Tweak/Сетевые/images/Pasted image 20260222213320.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213137.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213122.png"
+    "Tweak/Сетевые/images/Pasted image 20260222213137.png"
   ]
 }
