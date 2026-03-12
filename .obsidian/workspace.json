@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afe907e20f465046",
+        "id": "c3f60313b6745b30",
         "type": "tabs",
         "children": [
           {
-            "id": "709b21aa00d8896e",
+            "id": "a0e6db618d96def7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tweak/Быстрый переход.md",
+                "file": "Tweak/Журнал событий/Коды событий.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Быстрый переход"
+              "title": "Коды событий"
             }
           }
         ]
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 300
   },
   "right": {
     "id": "d653f0e426cd9343",
@@ -195,53 +193,53 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "709b21aa00d8896e",
+  "active": "a0e6db618d96def7",
   "lastOpenFiles": [
-    "Tweak/Браузер/RSS/Сборники лент.md",
-    "Программы/Графические/Быстрый предпросмотр.md",
-    "Tweak/Быстрый переход.md",
+    "Tweak/Журнал событий/Мониторинг.md",
+    "Tweak/Журнал событий/Коды событий.md",
     "Программы/Документация/Zeal - браузер для оффлайн документации.md",
+    "Tweak/Браузер/RSS/Сборники лент.md",
+    "conflict-files-obsidian-git.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
     "Программы/Документация/images",
     "Программы/Документация",
-    "HardWare/Printer/Картридж.md",
+    "Программы/Графические/Быстрый предпросмотр.md",
     "Tweak/Как отключить экран блокировки.md",
+    "Tweak/Быстрый переход.md",
     "HardWare/USB/Воссстановление.md",
-    "Tweak/Браузер/RSS/Поиск ленты.md",
     "HardWare/USB",
-    "Установка ОС/Предотвращение автоматической установки приложений.md",
-    "Установка ОС/Активация/КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10.md",
-    "Ссылки/Электронные учебники.md",
-    "Ссылки/Техника/Машины.md",
-    "Ссылки/Техника",
-    "Ссылки/Сайты для поиска софта.md",
-    "Ссылки/РК.md",
-    "Ссылки/Torrent/Сайт.md",
-    "Ссылки/Torrent/WWW.md",
-    "Ссылки/Torrent",
-    "Ссылки/OC/Windows.md",
-    "Ссылки/MicroSoft/Ресурсы.md",
-    "Ссылки/MicroSoft",
-    "Ссылки/Google/Данные аккаунта.md",
-    "Ссылки/Google/Keep.md",
-    "Ссылки/Driver/Pack.md",
-    "Ссылки/Driver",
-    "Ссылки/Download Media/Помошник.md",
-    "Ссылки/Download Media",
-    "Программы/Утилиты/WinToys.md",
-    "Программы/Утилиты/Sysinternals Suite.md",
-    "Программы/Утилиты/Sordum.md",
-    "Программы/Утилиты/PowerToys.md",
-    "Программы/Утилиты",
-    "Проблемы/images/Pasted image 20260211204628.png",
-    "Образы/Android",
-    "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
-    "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
+    "Tweak/Браузер/RSS/Поиск ленты.md",
+    "Tweak/Браузер/RSS",
+    "Tweak/Браузер",
+    "Tweak/Сетевые/Тестирование скорости сети.md",
     "Tweak/Сетевые/images/Pasted image 20260302074636.png",
     "Tweak/Сетевые/images/Pasted image 20260302074555.png",
+    "Установка ОС/Предотвращение автоматической установки приложений.md",
+    "Установка ОС/Без названия",
+    "Tweak/Журнал событий/images/Pasted image 20260301084704.png",
+    "Tweak/Журнал событий/images/Pasted image 20260301084603.png",
+    "Tweak/Журнал событий/images/demo-monitoring.mp4",
+    "Tweak/Журнал событий/images/demo-monitoring.mp4.crdownload",
+    "Tweak/Журнал событий/images/Pasted image 20260301082531.png",
+    "Tweak/Журнал событий/images",
+    "Tweak/Журнал событий",
+    "Tweak/Сетевые/TTL.md",
     "Tweak/Сетевые/images/Pasted image 20260222214325.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213429.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213320.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213137.png"
+    "Tweak/Сетевые/host/Acrylic DNS Proxy.md",
+    "Tweak/Сетевые/host/images/Pasted image 20260222214258.png",
+    "Tweak/Сетевые/host/images/Pasted image 20260222214251.png",
+    "Tweak/Сетевые/host/images/Pasted image 20260222214244.png",
+    "Tweak/Сетевые/Сетевое имя на Android.md",
+    "Tweak/Сетевые/Личный кабинет Microsoft.md",
+    "Tweak/Сетевые/Статистика/Как очистить статистику сети в Windows 10 или 11.md",
+    "Tweak/Производительность/Базовый тест средствами Windows.md",
+    "Tweak/Сетевые/Общая папка/Windows блокирует доступ к общей папке из-за политик вашей организации.md",
+    "Tweak/Сетевые/CUBIC, CTCP, BBR.md",
+    "README.md",
+    "Образы/Android/FydeOS.md",
+    "Программы/Утилиты/Sordum.md",
+    "Программы/Утилиты/NirSoft.md",
+    "Программы/Утилиты/Sysinternals Suite.md",
+    "Установка ОС/Активация/КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10.md"
   ]
 }
