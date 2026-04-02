@@ -12,29 +12,49 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tweak/Быстрый переход.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Быстрый переход"
             }
           },
           {
-            "id": "9b268f26a191138d",
+            "id": "abfffde61ad905fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HardWare/HDD/Тестирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Тестирование"
+            }
+          },
+          {
+            "id": "4baa44bb34dca6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ссылки/Google/Данные аккаунта.md",
+                "file": "Программы/Браузер/Просмотр истории.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Данные аккаунта"
+              "title": "Просмотр истории"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 278.5
   },
   "right": {
     "id": "d653f0e426cd9343",
@@ -190,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,28 +226,28 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "9b268f26a191138d",
+  "active": "5e1499b7e587ba9c",
   "lastOpenFiles": [
-    "Ссылки/Без названия.md",
-    "HardWare/Микрофон/Проверка микрофона в Windows 11.md",
-    "Tweak/Сетевые/Port/Как проверить открытые порты.md",
-    "HardWare/Микрофон",
-    "Программы/Браузер/Просмотр истории.md",
+    "Ссылки/Google/Данные аккаунта.md",
+    "Ссылки/Google",
+    "Ссылки",
+    "Tweak/Сетевые/Тестирование скорости сети.md",
     "Программы/Браузер/images/Pasted image 20260320150554.png",
     "Программы/Браузер/images",
-    "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
-    "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
-    "Tweak/Сетевые/Скорость",
     "HardWare/HDD/Тестирование.md",
-    "HardWare/HDD",
-    "Tweak/Быстрый переход.md",
-    "Tweak/Сетевые/Port/[Test-NetConnection.md",
+    "Программы/Браузер/Просмотр истории.md",
+    "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
+    "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
+    "Tweak/Сетевые/Скорость",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
-    "Tweak/Сетевые/Port",
+    "HardWare/HDD",
     "Tweak/Журнал событий/Мониторинг.md",
+    "Tweak/Сетевые/Port/Как проверить открытые порты.md",
+    "Tweak/Сетевые/Port",
     "conflict-files-obsidian-git.md",
     "Tweak/Журнал событий/Коды событий.md",
     "Tweak/Журнал событий/URL.md",
+    "Tweak/Быстрый переход.md",
     "Tweak/Браузер/RSS/Сборники лент.md",
     "Программы/Графические/Быстрый предпросмотр.md",
     "Программы/Документация/Zeal - браузер для оффлайн документации.md",
@@ -245,7 +265,7 @@
     "Ссылки/Техника/Машины.md",
     "Ссылки/Техника",
     "Ссылки/Сайты для поиска софта.md",
-    "Ссылки/Torrent",
+    "Ссылки/РК.md",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
