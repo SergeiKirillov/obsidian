@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -223,8 +223,13 @@
   },
   "active": "a941cf7031d70f19",
   "lastOpenFiles": [
-    "Ссылки/Google/Данные аккаунта.md",
+    "conflict-files-obsidian-git.md",
     "Ссылки/Google/Без названия.md",
+    "HardWare/Printer/Тестовая печать.md",
+    "HardWare/Printer/test fonts.doc",
+    "HardWare/Printer/Service Manual.md",
+    "HardWare/Printer/600dpi_4color.pdf",
+    "Ссылки/Google/Данные аккаунта.md",
     "Ссылки/Без названия.md",
     "HardWare/Микрофон/Проверка микрофона в Windows 11.md",
     "Tweak/Сетевые/Port/Как проверить открытые порты.md",
@@ -242,7 +247,6 @@
     "Tweak/Производительность/Базовый тест средствами Windows.md",
     "Tweak/Сетевые/Port",
     "Tweak/Журнал событий/Мониторинг.md",
-    "conflict-files-obsidian-git.md",
     "Tweak/Журнал событий/Коды событий.md",
     "Tweak/Журнал событий/URL.md",
     "Tweak/Браузер/RSS/Сборники лент.md",
@@ -257,10 +261,6 @@
     "Tweak/Браузер/RSS/Поиск ленты.md",
     "HardWare/USB",
     "Установка ОС/Предотвращение автоматической установки приложений.md",
-    "Установка ОС/Активация/КАК ПРОДЛИТЬ ПОДДЕРЖКУ WINDOWS 10.md",
-    "Ссылки/Электронные учебники.md",
-    "Ссылки/Техника",
-    "Ссылки/Torrent",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
