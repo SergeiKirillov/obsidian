@@ -26,6 +26,7 @@
           {
             "id": "86700e41aa705118",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,6 +34,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Windows LTSC IOT"
             }
@@ -212,11 +214,11 @@
   },
   "active": "86700e41aa705118",
   "lastOpenFiles": [
+    "Tweak/Быстрый переход.md",
+    "Установка ОС/Windows LTSC IOT.md",
     "TV box/LokLok.md",
     "TV box/HDRezka.md",
-    "Установка ОС/Windows LTSC IOT.md",
     "conflict-files-obsidian-git.md",
-    "Tweak/Быстрый переход.md",
     "TV box",
     "DataBase/MS SQL/Лог транзакций (ldf).md",
     "HardWare/Printer/Service Manual.md",
