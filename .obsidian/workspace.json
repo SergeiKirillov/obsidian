@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Образы/PE/Ventoy.md",
+                "file": "Образы/PE/Hiden BootCD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ventoy"
+              "title": "Hiden BootCD"
             }
           }
         ]
@@ -195,11 +195,11 @@
   },
   "active": "431e70d9619f7676",
   "lastOpenFiles": [
+    "Образы/PE/Ventoy.md",
     "Образы/PE/Hiden BootCD.md",
     "conflict-files-obsidian-git.md",
     "Установка ОС/Windows LTSC IOT.md",
     "Образы/PE/images/Pasted image 20260410142609.png",
-    "Образы/PE/Ventoy.md",
     "Образы/PE/images",
     "Образы/PE",
     "DataBase/MS SQL/Лог транзакций (ldf).md",
