@@ -38,23 +38,9 @@
               "icon": "lucide-file",
               "title": "Windows LTSC IOT"
             }
-          },
-          {
-            "id": "80fc06a60833c0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Образы/PE/Ventoy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ventoy"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +212,12 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "80fc06a60833c0d5",
+  "active": "86700e41aa705118",
   "lastOpenFiles": [
+    "Образы/PE/Ventoy.md",
     "Образы/PE/images/Pasted image 20260410142609.png",
     "Образы/PE/images",
     "Установка ОС/Windows LTSC IOT.md",
-    "Образы/PE/Ventoy.md",
     "Образы/PE/Hiden BootCD.md",
     "Образы/PE",
     "Tweak/Быстрый переход.md",
@@ -272,7 +258,6 @@
     "Tweak/Сетевые/images/Pasted image 20260302074636.png",
     "Tweak/Сетевые/images/Pasted image 20260302074555.png",
     "Tweak/Сетевые/images/Pasted image 20260222214325.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213429.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213320.png"
+    "Tweak/Сетевые/images/Pasted image 20260222213429.png"
   ]
 }
