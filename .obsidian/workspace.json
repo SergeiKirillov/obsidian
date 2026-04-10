@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddfa3a7b88c9a6fe",
+        "id": "b816ee198542d61f",
         "type": "tabs",
         "children": [
           {
-            "id": "12eeac2f1ebdf6d5",
+            "id": "431e70d9619f7676",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,13 +189,21 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "12eeac2f1ebdf6d5",
+  "active": "431e70d9619f7676",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Установка ОС/Windows LTSC IOT.md",
+    "Образы/PE/images/Pasted image 20260410142609.png",
+    "Образы/PE/Ventoy.md",
+    "Образы/PE/images",
+    "Образы/PE/Hiden BootCD.md",
+    "Образы/PE",
+    "DataBase/MS SQL/Лог транзакций (ldf).md",
+    "DataBase/MS SQL",
     "TV box/HDRezka.md",
     "TV box/LokLok.md",
     "TV box",
     "Ссылки/Google/Без названия.md",
-    "conflict-files-obsidian-git.md",
     "HardWare/Printer/Тестовая печать.md",
     "HardWare/Printer/test fonts.doc",
     "HardWare/Printer/Service Manual.md",
@@ -216,26 +224,18 @@
     "Tweak/Быстрый переход.md",
     "Tweak/Сетевые/Port/[Test-NetConnection.md",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
-    "Tweak/Сетевые/Port",
     "Tweak/Журнал событий/Мониторинг.md",
     "Tweak/Журнал событий/Коды событий.md",
     "Tweak/Журнал событий/URL.md",
     "Tweak/Браузер/RSS/Сборники лент.md",
     "Программы/Графические/Быстрый предпросмотр.md",
-    "Программы/Документация/Zeal - браузер для оффлайн документации.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
-    "Программы/Документация/images",
-    "Программы/Документация",
-    "HardWare/Printer/Картридж.md",
-    "Tweak/Как отключить экран блокировки.md",
-    "HardWare/USB/Воссстановление.md",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
     "Tweak/Сетевые/images/Pasted image 20260302074636.png",
     "Tweak/Сетевые/images/Pasted image 20260302074555.png",
     "Tweak/Сетевые/images/Pasted image 20260222214325.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213429.png",
-    "Tweak/Сетевые/images/Pasted image 20260222213320.png"
+    "Tweak/Сетевые/images/Pasted image 20260222213429.png"
   ]
 }
