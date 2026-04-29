@@ -4,24 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b816ee198542d61f",
+        "id": "afe907e20f465046",
         "type": "tabs",
         "children": [
           {
-            "id": "431e70d9619f7676",
+            "id": "709b21aa00d8896e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Образы/PE/Hiden BootCD.md",
+                "file": "Tweak/Быстрый переход.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hiden BootCD"
+              "title": "Быстрый переход"
+            }
+          },
+          {
+            "id": "86700e41aa705118",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка ОС/Windows LTSC IOT.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Windows LTSC IOT"
+            }
+          },
+          {
+            "id": "3bd7183eabbb81d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка ОС/Настройка ПК после установки.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Настройка ПК после установки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 278.5
   },
   "right": {
     "id": "d653f0e426cd9343",
@@ -177,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,47 +228,47 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "431e70d9619f7676",
+  "active": "86700e41aa705118",
   "lastOpenFiles": [
-    "Образы/PE/Ventoy.md",
-    "Образы/PE/Hiden BootCD.md",
-    "conflict-files-obsidian-git.md",
+    "Установка ОС/Настройка ПК после установки.md",
     "Установка ОС/Windows LTSC IOT.md",
+    "Образы/PE/Ventoy.md",
     "Образы/PE/images/Pasted image 20260410142609.png",
     "Образы/PE/images",
+    "Образы/PE/Hiden BootCD.md",
     "Образы/PE",
-    "DataBase/MS SQL/Лог транзакций (ldf).md",
-    "DataBase/MS SQL",
-    "TV box/HDRezka.md",
+    "Tweak/Быстрый переход.md",
     "TV box/LokLok.md",
+    "TV box/HDRezka.md",
+    "conflict-files-obsidian-git.md",
     "TV box",
-    "Ссылки/Google/Без названия.md",
+    "DataBase/MS SQL/Лог транзакций (ldf).md",
+    "HardWare/Printer/Service Manual.md",
+    "DataBase/MS SQL",
     "HardWare/Printer/Тестовая печать.md",
     "HardWare/Printer/test fonts.doc",
-    "HardWare/Printer/Service Manual.md",
+    "HardWare/Printer/Неподтверждено 430844.crdownload",
     "HardWare/Printer/600dpi_4color.pdf",
-    "Ссылки/Google/Данные аккаунта.md",
-    "Ссылки/Без названия.md",
-    "HardWare/Микрофон/Проверка микрофона в Windows 11.md",
-    "Tweak/Сетевые/Port/Как проверить открытые порты.md",
-    "HardWare/Микрофон",
+    "HardWare/Printer/600dpi_4color.pdf.crdownload",
     "Программы/Браузер/Просмотр истории.md",
+    "HardWare/Printer",
+    "HardWare",
+    "Ссылки/Google/Данные аккаунта.md",
+    "Tweak/Сетевые/Тестирование скорости сети.md",
     "Программы/Браузер/images/Pasted image 20260320150554.png",
-    "Программы/Браузер/images",
-    "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
-    "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
-    "Tweak/Сетевые/Скорость",
     "HardWare/HDD/Тестирование.md",
-    "HardWare/HDD",
-    "Tweak/Быстрый переход.md",
-    "Tweak/Сетевые/Port/[Test-NetConnection.md",
+    "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
+    "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
     "Tweak/Журнал событий/Мониторинг.md",
+    "Tweak/Сетевые/Port/Как проверить открытые порты.md",
     "Tweak/Журнал событий/Коды событий.md",
     "Tweak/Журнал событий/URL.md",
     "Tweak/Браузер/RSS/Сборники лент.md",
     "Программы/Графические/Быстрый предпросмотр.md",
+    "Программы/Документация/Zeal - браузер для оффлайн документации.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
+    "HardWare/Printer/Картридж.md",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
