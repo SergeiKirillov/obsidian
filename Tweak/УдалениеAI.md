@@ -5,3 +5,6 @@
 - Скрипт PowerShell который удаляет  AI, разработчик ([zoicware/RemoveWindowsAI: Force Remove Copilot, Recall and More in Windows 11](https://github.com/zoicware/RemoveWindowsAI))
 
 
+## [Sophia Script для Windows](https://www.comss.ru/page.php?id=19915)
+
+
