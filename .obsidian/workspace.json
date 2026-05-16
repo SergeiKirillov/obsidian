@@ -54,23 +54,9 @@
               "icon": "lucide-file",
               "title": "Настройка ПК после установки"
             }
-          },
-          {
-            "id": "6a58c6069cd530a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Установка ОС/Образы для скачивания.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Образы для скачивания"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,10 +228,10 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "6a58c6069cd530a5",
+  "active": "3bd7183eabbb81d6",
   "lastOpenFiles": [
-    "Обновления/Скорость обновления.md",
     "Установка ОС/Образы для скачивания.md",
+    "Обновления/Скорость обновления.md",
     "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/Настройка ПК после установки.md",
     "Образы/PE/Ventoy.md",
