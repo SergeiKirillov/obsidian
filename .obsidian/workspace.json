@@ -228,15 +228,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e1499b7e587ba9c",
+  "active": "3bd7183eabbb81d6",
   "lastOpenFiles": [
+    "HardWare/USB/Форматирование.md",
+    "HardWare/USB/images/Pasted image 20260517192505.png",
+    "HardWare/USB/images",
+    "Установка ОС/Настройка ПК после установки.md",
+    "HardWare/USB",
     "README.md",
     "Программы/Torrent/Tixaty.md",
     "Templater/Содержание.md",
     "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/Предотвращение автоматической установки приложений.md",
     "Установка ОС/Образы для скачивания.md",
-    "Установка ОС/Настройка ПК после установки.md",
     "conflict-files-obsidian-git.md",
     "Программы/0_Store (Магазин приложений)/github-store.org.md",
     "Программы/0_Store (Магазин приложений)",
@@ -258,23 +262,18 @@
     "HardWare/Printer/test fonts.doc",
     "HardWare/Printer/Неподтверждено 430844.crdownload",
     "HardWare/Printer/600dpi_4color.pdf",
-    "HardWare/Printer/600dpi_4color.pdf.crdownload",
     "Программы/Браузер/Просмотр истории.md",
-    "HardWare/Printer",
     "Ссылки/Google/Данные аккаунта.md",
     "Tweak/Сетевые/Тестирование скорости сети.md",
     "Программы/Браузер/images/Pasted image 20260320150554.png",
     "HardWare/HDD/Тестирование.md",
     "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
     "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
-    "Tweak/Производительность/Базовый тест средствами Windows.md",
-    "Tweak/Журнал событий/Мониторинг.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
     "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
     "Tweak/Сетевые/images/Pasted image 20260302074636.png",
-    "Tweak/Сетевые/images/Pasted image 20260302074555.png",
-    "Tweak/Сетевые/images/Pasted image 20260222214325.png"
+    "Tweak/Сетевые/images/Pasted image 20260302074555.png"
   ]
 }
