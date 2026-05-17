@@ -216,7 +216,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": true,
       "canvas:Создать новый холст": false,
@@ -225,7 +224,8 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Git: Commit-and-sync": false
+      "cmdr:Git: Commit-and-sync": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "3bd7183eabbb81d6",
