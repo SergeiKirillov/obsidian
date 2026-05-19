@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "3bd7183eabbb81d6",
+  "active": "86700e41aa705118",
   "lastOpenFiles": [
+    "Установка ОС/Настройка ПК после установки.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
     "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
     "HardWare/USB/Форматирование.md",
@@ -237,7 +238,6 @@
     "HardWare/USB/images",
     "HardWare/USB",
     "conflict-files-obsidian-git.md",
-    "Установка ОС/Настройка ПК после установки.md",
     "Программы/0_Store (Магазин приложений)/github-store.org.md",
     "Программы/0_Store (Магазин приложений)",
     "Tweak/images/Pasted image 20260511204428.png",
