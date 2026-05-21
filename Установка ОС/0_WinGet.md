@@ -18,6 +18,7 @@ winget install --id CodecGuide.K-LiteCodecPack.Full
 winget install --id TheDocumentFoundation.LibreOffice
 winget install WhatsApp.WhatsApp
 
+winget install --id Python.Python.3.14
 
 
 
