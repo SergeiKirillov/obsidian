@@ -20,7 +20,7 @@ winget install WhatsApp.WhatsApp
 
 winget install --id Python.Python.3.14
 winget install --id Microsoft.VisualStudioCode
-
+winget install --id Microsoft.VisualStudioCode.Insiders
 
 
 
