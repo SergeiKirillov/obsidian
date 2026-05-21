@@ -58,6 +58,7 @@
           {
             "id": "64fbba5145e8bfcb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,6 +66,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "0_WinGet"
             }
@@ -245,11 +247,11 @@
   "active": "64fbba5145e8bfcb",
   "lastOpenFiles": [
     "Установка ОС/0_Таб_Настройка ПК.md",
+    "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
     "Установка ОС/0_WinGet.md",
     "Установка ОС/[Бесплатная.md",
     "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/Настройка ПК после установки.md",
-    "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
     "HardWare/USB/Форматирование.md",
     "HardWare/USB/images/Pasted image 20260517192505.png",
     "HardWare/USB/images",
