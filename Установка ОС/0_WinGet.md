@@ -19,6 +19,8 @@ winget install --id TheDocumentFoundation.LibreOffice
 winget install WhatsApp.WhatsApp
 
 winget install --id Python.Python.3.14
+winget install --id Microsoft.VisualStudioCode
+
 
 
 
