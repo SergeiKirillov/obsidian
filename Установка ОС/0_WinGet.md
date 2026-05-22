@@ -42,3 +42,6 @@ winget install zed.rainxch.githubstore
 **Чтобы добавить новый репозиторий**, нужно использовать команду: winget source add -n [name] -a [url] -t [type]. Для удаления репозитория используется аналогичная команда, но с подкомандой remove. [2](https://serverspace.ru/support/help/chto-takoe-winget-i-kak-s-nim-rabotat/)
 
 **Чтобы добавить корпоративный репозиторий** для множества сотрудников, нужно обратиться к конфигурационному файлу по пути %LOCALAPPDATA%\Microsoft\WinGet\Settings\settings.json и добавить необходимые источники. После этого сохранить и репозитории будут готовы к использованию.
+
+
+[microsoft/winget-cli: WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).](https://github.com/microsoft/winget-cli)
