@@ -68,9 +68,25 @@
               "icon": "lucide-file",
               "title": "0_WinGet"
             }
+          },
+          {
+            "id": "c07e65fe97108157",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка ОС/0_Таб_Настройка ПК.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0_Таб_Настройка ПК"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,8 +258,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64fbba5145e8bfcb",
+  "active": "c07e65fe97108157",
   "lastOpenFiles": [
+    "Установка ОС/0_WinGet.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
     "Установка ОС/Настройка ПК после установки.md",
     "Установка ОС/Windows LTSC IOT.md",
@@ -251,7 +268,6 @@
     "Установка ОС/images/Pasted image 20260522084503.png",
     "Установка ОС/images",
     "Tweak/Быстрый переход.md",
-    "Установка ОС/0_WinGet.md",
     "Установка ОС/[Бесплатная.md",
     "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
     "HardWare/USB/Форматирование.md",
