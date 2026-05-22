@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,10 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c07e65fe97108157",
+  "active": "64fbba5145e8bfcb",
   "lastOpenFiles": [
-    "Установка ОС/0_WinGet.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
+    "Установка ОС/0_WinGet.md",
     "Установка ОС/Настройка ПК после установки.md",
     "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/images/Pasted image 20260522084640.png",
