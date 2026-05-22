@@ -58,6 +58,22 @@
           {
             "id": "64fbba5145e8bfcb",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка ОС/0_WinGet.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0_WinGet"
+            }
+          },
+          {
+            "id": "0de0ac2255b5b738",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -244,11 +260,12 @@
   },
   "active": "64fbba5145e8bfcb",
   "lastOpenFiles": [
-    "Установка ОС/[Бесплатная.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
-    "Установка ОС/Windows LTSC IOT.md",
+    "Установка ОС/0_WinGet.md",
     "Установка ОС/Настройка ПК после установки.md",
     "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
+    "Установка ОС/[Бесплатная.md",
+    "Установка ОС/Windows LTSC IOT.md",
     "HardWare/USB/Форматирование.md",
     "HardWare/USB/images/Pasted image 20260517192505.png",
     "HardWare/USB/images",
@@ -283,7 +300,6 @@
     "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
     "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
     "Tweak/Производительность/Базовый тест средствами Windows.md",
-    "Tweak/Журнал событий/Мониторинг.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
