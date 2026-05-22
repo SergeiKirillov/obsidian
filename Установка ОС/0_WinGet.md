@@ -26,6 +26,9 @@ winget install --id GitHub.GitHubDesktop
 
 winget install CommunicationPlatform.MAX
 winget install zed.rainxch.githubstore
+winget install --id Git.Git -e --source winget
+
+
 
 
 
