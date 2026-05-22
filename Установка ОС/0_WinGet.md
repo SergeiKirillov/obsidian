@@ -23,6 +23,7 @@ winget install --id Microsoft.VisualStudioCode
 winget install --id Microsoft.VisualStudioCode.Insiders
 winget install --id GitHub.GitHubDesktop
 
+winget install CommunicationPlatform.MAX
 
 
 
