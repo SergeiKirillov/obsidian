@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,17 +242,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64fbba5145e8bfcb",
+  "active": "3bd7183eabbb81d6",
   "lastOpenFiles": [
+    "Установка ОС/Windows LTSC IOT.md",
+    "Установка ОС/Настройка ПК после установки.md",
+    "Установка ОС/0_Таб_Настройка ПК.md",
     "Установка ОС/images/Pasted image 20260522084640.png",
     "Установка ОС/images/Pasted image 20260522084503.png",
     "Установка ОС/images",
-    "Установка ОС/Настройка ПК после установки.md",
     "Tweak/Быстрый переход.md",
-    "Установка ОС/0_Таб_Настройка ПК.md",
     "Установка ОС/0_WinGet.md",
     "Установка ОС/[Бесплатная.md",
-    "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
     "HardWare/USB/Форматирование.md",
     "HardWare/USB/images/Pasted image 20260517192505.png",
@@ -288,7 +288,6 @@
     "Программы/Документация/images/Pasted image 20260307124116.png",
     "Проблемы/images/Pasted image 20260211204628.png",
     "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
-    "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png",
-    "Tweak/Сетевые/images/Pasted image 20260302074636.png"
+    "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png"
   ]
 }
