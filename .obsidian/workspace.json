@@ -84,9 +84,23 @@
               "icon": "lucide-file",
               "title": "0_Таб_Настройка ПК"
             }
+          },
+          {
+            "id": "091ea5ccf948e053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tweak/USB/Как скрыть устройство.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как скрыть устройство"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,10 +272,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c07e65fe97108157",
+  "active": "091ea5ccf948e053",
   "lastOpenFiles": [
-    "Tweak/USB/Автозапуск.md",
+    "Tweak/USB/images/Pasted image 20260522152627.png",
+    "Tweak/USB/images/Pasted image 20260522152553.png",
+    "Tweak/USB/images/Pasted image 20260522152504.png",
+    "Tweak/USB/images",
     "Установка ОС/0_Таб_Настройка ПК.md",
+    "Tweak/USB/Как скрыть устройство.md",
+    "Tweak/USB/Автозапуск.md",
     "Tweak/USB",
     "Установка ОС/0_WinGet.md",
     "Установка ОС/Настройка ПК после установки.md",
@@ -294,17 +313,12 @@
     "HardWare/Printer/Service Manual.md",
     "DataBase/MS SQL",
     "HardWare/Printer/Тестовая печать.md",
-    "HardWare/Printer/test fonts.doc",
     "Программы/Браузер/Просмотр истории.md",
     "Ссылки/Google/Данные аккаунта.md",
     "Tweak/Сетевые/Тестирование скорости сети.md",
     "Программы/Браузер/images/Pasted image 20260320150554.png",
     "HardWare/HDD/Тестирование.md",
-    "Tweak/Сетевые/Скорость/Скорость сетевого адаптера.md",
-    "Tweak/Сетевые/Скорость/Тестирование скорости сети.md",
     "Программы/Документация/images/Pasted image 20260307124116.png",
-    "Проблемы/images/Pasted image 20260211204628.png",
-    "Tweak/Сетевые/Статистика/images/Pasted image 20260221185610.png",
-    "Tweak/Сетевые/Общая папка/images/Pasted image 20260221171737.png"
+    "Проблемы/images/Pasted image 20260211204628.png"
   ]
 }
