@@ -58,7 +58,6 @@
           {
             "id": "64fbba5145e8bfcb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -66,14 +65,14 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "0_WinGet"
             }
           },
           {
-            "id": "0de0ac2255b5b738",
+            "id": "c07e65fe97108157",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -81,26 +80,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "0_Таб_Настройка ПК"
             }
-          },
-          {
-            "id": "fe3c73baf8898784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tweak/Сетевые/Общая папка/Кол-во подключений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Кол-во подключений"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,32 +258,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe3c73baf8898784",
+  "active": "c07e65fe97108157",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Tweak/Сетевые/Общая папка/Кол-во подключений.md",
-    "Установка ОС/images/Pasted image 20260522084640.png",
-    "Установка ОС/images/Pasted image 20260522084503.png",
-    "Установка ОС/images",
+    "Tweak/USB/Как скрыть устройство.md",
     "Tweak/USB/images/Pasted image 20260522152627.png",
     "Tweak/USB/images/Pasted image 20260522152553.png",
     "Tweak/USB/images/Pasted image 20260522152504.png",
-    "Tweak/USB/Как скрыть устройство.md",
-    "Tweak/USB/Автозапуск.md",
     "Tweak/USB/images",
-    "Tweak/USB",
-    "Установка ОС/Настройка ПК после установки.md",
-    "Tweak/Быстрый переход.md",
-    "Tweak/Сетевые/Общая папка/Windows блокирует доступ к общей папке из-за политик вашей организации.md",
-    "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
+    "Tweak/USB/Автозапуск.md",
+    "Tweak/USB",
     "Установка ОС/0_WinGet.md",
-    "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
+    "Установка ОС/Настройка ПК после установки.md",
+    "Установка ОС/Windows LTSC IOT.md",
+    "Установка ОС/images/Pasted image 20260522084640.png",
+    "Установка ОС/images/Pasted image 20260522084503.png",
+    "Установка ОС/images",
+    "Tweak/Быстрый переход.md",
     "Установка ОС/[Бесплатная.md",
+    "Установка ОС/0 _ Программы и первоначальная настройка ПК.md",
     "HardWare/USB/Форматирование.md",
     "HardWare/USB/images/Pasted image 20260517192505.png",
     "HardWare/USB/images",
     "HardWare/USB",
+    "conflict-files-obsidian-git.md",
     "Программы/0_Store (Магазин приложений)/github-store.org.md",
     "Программы/0_Store (Магазин приложений)",
     "Tweak/images/Pasted image 20260511204428.png",
@@ -317,7 +302,9 @@
     "HardWare/Printer/Тестовая печать.md",
     "Программы/Браузер/Просмотр истории.md",
     "Ссылки/Google/Данные аккаунта.md",
+    "Tweak/Сетевые/Тестирование скорости сети.md",
     "Программы/Браузер/images/Pasted image 20260320150554.png",
+    "HardWare/HDD/Тестирование.md",
     "Программы/Документация/images/Pasted image 20260307124116.png"
   ]
 }
