@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,10 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c07e65fe97108157",
+  "active": "64fbba5145e8bfcb",
   "lastOpenFiles": [
-    "Tweak/Сетевые/Общая папка/Кол-во подключений.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
+    "Tweak/Сетевые/Общая папка/Кол-во подключений.md",
     "Tweak/USB/Как скрыть устройство.md",
     "Tweak/USB/images/Pasted image 20260522152627.png",
     "Tweak/USB/images/Pasted image 20260522152553.png",
