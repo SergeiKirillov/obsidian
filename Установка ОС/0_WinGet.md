@@ -8,6 +8,7 @@
 
 ```
 winget install --id Obsidian.Obsidian
+winget install --id zadjii.ObsidianNotesExtension
 winget install --id Syncthing.Syncthing
 
 winget install --id 7zip.7zip
