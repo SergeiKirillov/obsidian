@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Установка ОС/0_WinGet.md",
+                "file": "Tweak/Производительность/Агрессивный режим процессора в Windows 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_WinGet"
+              "title": "Агрессивный режим процессора в Windows 11"
             }
           },
           {
@@ -260,6 +260,8 @@
   },
   "active": "64fbba5145e8bfcb",
   "lastOpenFiles": [
+    "Установка ОС/0_WinGet.md",
+    "Tweak/Производительность/Агрессивный режим процессора в Windows 11.md",
     "Установка ОС/0_Таб_Настройка ПК.md",
     "Tweak/Сетевые/Общая папка/Кол-во подключений.md",
     "Tweak/USB/Как скрыть устройство.md",
@@ -269,7 +271,6 @@
     "Tweak/USB/images",
     "Tweak/USB/Автозапуск.md",
     "Tweak/USB",
-    "Установка ОС/0_WinGet.md",
     "Установка ОС/Настройка ПК после установки.md",
     "Установка ОС/Windows LTSC IOT.md",
     "Установка ОС/images/Pasted image 20260522084640.png",
@@ -304,7 +305,6 @@
     "Ссылки/Google/Данные аккаунта.md",
     "Tweak/Сетевые/Тестирование скорости сети.md",
     "Программы/Браузер/images/Pasted image 20260320150554.png",
-    "HardWare/HDD/Тестирование.md",
     "Программы/Документация/images/Pasted image 20260307124116.png"
   ]
 }
